@@ -17,11 +17,11 @@ Communauté fr<br>
 https://osintfr.com/<br>
 https://www.youtube.com/@osintfr/videos<br>
 Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, événements et collaborations. Leur Discord est le cœur des échanges (16 000+ membres).  <br>
-Rejoindre : Discord https://discord.com/invite/dWY9sWFKYD.  <br>
+Rejoindre : Discord https://discord.com/invite/dWY9sWFKYD.  <br><br>
 DEXY | Community : Espace francophone pour cybersécurité et OSINT, avec partage d'outils, techniques et entraide entre pros et débutants.<br>
-Rejoindre : Discord https://discord.gg/bDueEj4Dt9.<br>
+Rejoindre : Discord https://discord.gg/bDueEj4Dt9.<br><br>
 Greysky : QG pour passionnés d'OSINT et cyberdéfense, avec veille, tutos, bots et discussions éthiques. Ouvert aux débutants et confirmés.<br>
-Rejoindre : Discord https://discord.gg/daFvd4h6.<br>
+Rejoindre : Discord https://discord.gg/daFvd4h6.<br><br>
 LeakWeb : Communauté pour partager leaks, astuces OSINT et ressources exclusives, dans une ambiance bienveillante.<br>
 Rejoindre : Discord https://discord.gg/h5kRYEZKy2.<br>
 
