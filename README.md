@@ -1,7 +1,6 @@
 OSINT DATA
 
 Méthodes<br>
-https://kit.exposingtheinvisible.org/fr/about.html<br>
 https://ozint.eu/fiche-pedagogique/methodologie/<br>
 
 Livre EN<br>
