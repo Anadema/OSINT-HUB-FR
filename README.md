@@ -1,6 +1,8 @@
 OSINT DATA
 
 Méthodes<br>
+https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf<br>
+https://repo.tzku.at/presentation/OSINT-tzkuat.pdf
 https://ozint.eu/fiche-pedagogique/methodologie/<br>
 
 Livre EN<br>
@@ -11,9 +13,7 @@ https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT<br>
 https://buymeacoffee.com/notescatalog/e/258542 (13$)<br>
 
 Slides / pdf fr<br>
-https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf<br>
 https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf<br>
-https://repo.tzku.at/presentation/OSINT-tzkuat.pdf<br>
 https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf<br>
 https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf<br>
 https://www.aege.fr/global/gene/link.php?news_link=2022093332_mag-osint-10-aege.pdf&fg=1<br>
