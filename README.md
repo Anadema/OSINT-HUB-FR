@@ -84,20 +84,20 @@ Plateforme<br>
 https://www.osint.industries/<br>
 
 
-Entreprise
+Entreprise<br>
+XMCO (Paris)  Spécialisée en cybersécurité et OSINT. Recrute pour des postes comme Analyste Junior/Confirmé Cybercriminalité et Darkweb (CDI). Focus sur la veille menaces et investigations Darkweb.<br><br>
+Ariane Group (Île-de-France)  Groupe aérospatial et défense. Offres pour Analyste en intelligence économique (CDI), incluant techniques OSINT pour la sécurité industrielle.<br><br>
+Epieos (Paris)  Leader français en outils OSINT pour forces de l'ordre et entreprises. Recrute régulièrement des analystes pour développement et investigations (vérifie leur site carrière).<br><br>
+Elephantastic (Île-de-France)  Société OSINT dédiée aux enquêtes corporate et anti-fraude. Emploie des experts pour contrats avec grands groupes français ; opportunités en intelligence ouverte.<br><br>
+Aleph-Networks (Paris)  Startup deeptech en logiciels OSINT SaaS. Recrute pour R&D et analyse de données ouvertes, après une levée de fonds récente en 2025.<br><br>
+Manufacture Française d'OSINT (France)  Fournisseur de renseignement OSINT aux décideurs d'entreprise. Cherche des investigateurs pour due diligence et veille stratégique.<br><br>
+Sopra Steria (Paris et régions)  ESN en défense et sécurité. Recrute massivement pour talents OSINT dans des projets cybersécurité et renseignement.<br><br>
+Vélite (Paris)  Cabinet en intelligence économique. Offres pour Consultant Junior (H/F) avec compétences OSINT en investigations.<br><br>
+Sahar (Paris)  Spécialisée en analyse et veille. Poste de Responsable Analyse & Veille Stratégique (CDI), axé OSINT et threat intelligence.<br><br>
+MA Cyber (Île-de-France)  Entreprise en pentest et cybersécurité. Recrute pour audits incluant OSINT, avec focus sur investigations numériques.<br><br>
 
-XMCO (Paris)  Spécialisée en cybersécurité et OSINT. Recrute pour des postes comme Analyste Junior/Confirmé Cybercriminalité et Darkweb (CDI). Focus sur la veille menaces et investigations Darkweb.<br>
-Ariane Group (Île-de-France)  Groupe aérospatial et défense. Offres pour Analyste en intelligence économique (CDI), incluant techniques OSINT pour la sécurité industrielle.<br>
-Epieos (Paris)  Leader français en outils OSINT pour forces de l'ordre et entreprises. Recrute régulièrement des analystes pour développement et investigations (vérifie leur site carrière).<br>
-Elephantastic (Île-de-France)  Société OSINT dédiée aux enquêtes corporate et anti-fraude. Emploie des experts pour contrats avec grands groupes français ; opportunités en intelligence ouverte.<br>
-Aleph-Networks (Paris)  Startup deeptech en logiciels OSINT SaaS. Recrute pour R&D et analyse de données ouvertes, après une levée de fonds récente en 2025.<br>
-Manufacture Française d'OSINT (France)  Fournisseur de renseignement OSINT aux décideurs d'entreprise. Cherche des investigateurs pour due diligence et veille stratégique.<br>
-Sopra Steria (Paris et régions)  ESN en défense et sécurité. Recrute massivement pour talents OSINT dans des projets cybersécurité et renseignement.<br>
-Vélite (Paris)  Cabinet en intelligence économique. Offres pour Consultant Junior (H/F) avec compétences OSINT en investigations.<br>
-Sahar (Paris)  Spécialisée en analyse et veille. Poste de Responsable Analyse & Veille Stratégique (CDI), axé OSINT et threat intelligence.<br>
-MA Cyber (Île-de-France)  Entreprise en pentest et cybersécurité. Recrute pour audits incluant OSINT, avec focus sur investigations numériques.<br>
-
-Bonus : Secteur public (opportunités stables) :Ministère de l'Intérieur (DRPP) : Enquêteur en sources ouvertes - OSINT (H/F), Paris.<br>
+Bonus : 
+Secteur public (opportunités stables) :Ministère de l'Intérieur (DRPP) : Enquêteur en sources ouvertes - OSINT (H/F), Paris.<br><br>
 TRACFIN : Expert OSINT/Crypto (H/F), pour lutte contre blanchiment.
 
 
