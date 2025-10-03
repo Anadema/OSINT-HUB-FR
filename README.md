@@ -1,5 +1,30 @@
 OSINT DATA
 
+Méthodes<br>
+https://kit.exposingtheinvisible.org/fr/about.html<br>
+https://ozint.eu/fiche-pedagogique/methodologie/<br>
+
+Livre EN<br>
+https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf<br>
+https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf<br>
+https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up<br>
+https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT<br>
+https://buymeacoffee.com/notescatalog/e/258542 (13$)<br>
+
+Slides / pdf fr<br>
+https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf<br>
+https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf<br>
+https://repo.tzku.at/presentation/OSINT-tzkuat.pdf<br>
+https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf<br>
+https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf<br>
+https://www.aege.fr/global/gene/link.php?news_link=2022093332_mag-osint-10-aege.pdf&fg=1<br>
+
+Slide / pdf EN<br>
+https://ceur-ws.org/Vol-3654/short3.pdf<br>
+https://repo.tzku.at/documentation/osint/Dangerours%20Google%20Hacking%20Database%20and%20Attacks.pdf<br>
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5281845<br>
+
+
 Tools<br>
 https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/<br>
 https://start.me/p/0Pqbdg/osint-500-tools?locale=fr<br>
@@ -59,25 +84,6 @@ https://ozint.eu/<br>
 https://the-osint-project.fr/<br>
 https://ctf.challenge-osint.fr/<br>
 
-Livre EN<br>
-https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
-https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf
-https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up
-https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT
-https://buymeacoffee.com/notescatalog/e/258542 (13$)
-
-Slides / pdf fr<br>
-https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf<br>
-https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf<br>
-https://repo.tzku.at/presentation/OSINT-tzkuat.pdf<br>
-https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf<br>
-https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf<br>
-https://www.aege.fr/global/gene/link.php?news_link=2022093332_mag-osint-10-aege.pdf&fg=1<br>
-
-Slide / pdf EN<br>
-https://ceur-ws.org/Vol-3654/short3.pdf<br>
-https://repo.tzku.at/documentation/osint/Dangerours%20Google%20Hacking%20Database%20and%20Attacks.pdf<br>
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5281845<br>
 
 
 Plateforme<br>
