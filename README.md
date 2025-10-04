@@ -36,6 +36,8 @@ https://inteltechniques.com/tools/index.html<br>
 https://github.com/sherlock-project/sherlock<br>
 https://github.com/Lissy93/web-check<br>
 https://www.factscopeai.com/<br>
+https://www.maltego.com/<br>
+https://bf.based.re/
 
 Communauté fr<br>
 Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, événements et collaborations. Leur Discord est le cœur des échanges (16 000+ membres).  <br>
