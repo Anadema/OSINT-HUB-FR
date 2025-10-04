@@ -1,4 +1,4 @@
-# 🕵️‍♂️ **OSINT**
+# 🕵️‍♂️ **OSINT Ressources**
 
 <p align="center">
   <img src="picture/osint-logo.jpg" alt="OSINT Image" width="550">
