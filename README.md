@@ -1,5 +1,9 @@
 # 🧠 OSINT DATABASE (France / International)
 
+<p align="center">
+  <img src="picture/osint-logo.jpg" alt="OSINT Image" width="550">
+</p>
+
 <br><br>
 
 ## 📑 Table des matières
@@ -30,10 +34,6 @@
 <br>
 
 # 🕵️‍♂️ **OSINT Ressources**
-
-<p align="center">
-  <img src="picture/osint-logo.jpg" alt="OSINT Image" width="550">
-</p>
 
 <br>
 
