@@ -9,46 +9,42 @@
 
 ## 📑 Table des matières
 
-- [🕵️‍♂️ OSINT Ressources](#osint-ressources)
-  - [✍️ Articles](#articles)
-  - [🧭 Méthodes](#methodes)
-  - [📚 Livres (EN)](#livres-en)
-  - [🖼️ Slides / PDF (FR)](#slides--pdf-fr)
-  - [📄 Slides / PDF (EN)](#slides--pdf-en)
-  - [🎥 Vidéos](#videos)
-  - [🧰 Tools](#tools)
-  - [🔍 Other Sources](#other-sources)
-    
-- [🕵️‍♂️ OSINT Communauté](#osint-communaute)
-  - [🇫🇷 Communautés FR](#communautes-fr)
-  - [🌍 Communautés EN](#communautes-en)
-    
-- [🕵️‍♂️ OSINT Formations](#osint-formations)
-  - [🎓 Formations gratuites](#formations-gratuites)
-  - [💼 Formations / certifications payantes](#formations--certifications-payantes)
-  - [🕹️ Challenges FR](#challenges-fr)
-  - [🧩 Plateformes](#plateformes)
-    
-- [🕵️‍♂️ OSINT Jobs](#osint-jobs)
-  - [🇫🇷 Entreprises françaises spécialisées en OSINT](#entreprises-francaises-specialisees-en-osint)
-  - [🌍 Entreprises internationales spécialisées en OSINT](#entreprises-internationales-specialisees-en-osint)
-  - [🏢 Recherche Emploi](#recherche-emploi)
-  - [🎖️ Bonus](#bonus)
+- [🕵️‍♂️ OSINT Ressources](#-osint-ressources)
+  - [✍️ Articles](#-articles)
+  - [🧭 Méthodes](#-méthodes)
+  - [📚 Livres (EN)](#-livres-en)
+  - [🖼️ Slides / PDF (FR)](#-slides--pdf-fr)
+  - [📄 Slides / PDF (EN)](#-slides--pdf-en)
+  - [🎥 Vidéos](#-vidéos)
+  - [🧰 Tools](#-tools)
+  - [🔍 Other Sources](#-other-sources)
+- [🕵️‍♂️ OSINT Communauté](#-osint-communauté)
+  - [🇫🇷 Communautés FR](#-communautés-fr)
+  - [🌍 Communautés EN](#-communautés-en)
+- [🕵️‍♂️ OSINT Formations](#-osint-formations)
+  - [🎓 Formations gratuites](#-formations-gratuites)
+  - [💼 Formations / certifications payantes](#-formations--certifications-payantes)
+  - [🕹️ Challenges FR](#-challenges-fr)
+  - [🧩 Plateformes](#-plateformes)
+- [🕵️‍♂️ OSINT Jobs](#-osint-jobs)
+  - [🇫🇷 Entreprises françaises spécialisées en OSINT](#-entreprises-françaises-spécialisées-en-osint)
+  - [🌍 Entreprises internationales spécialisées en OSINT](#-entreprises-internationales-spécialisées-en-osint)
+  - [🏢 Recherche Emploi](#-recherche-emploi)
+  - [🎖️ Bonus](#-bonus)
 
 <br>
 
-# 🕵️‍♂️ **OSINT Ressources**
-
+# 🕵️‍♂️ OSINT Ressources
 <br>
 
-## ✍️ **Articles**
+## ✍️ Articles
 - [Fiche métier FR](https://guardia.school/metiers/osint-analyst.html)
 - [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
 
 ---
 <br>
 
-## 🧭 **Méthodes**
+## 🧭 Méthodes
 - [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
 - [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
@@ -58,7 +54,7 @@
 ---
 <br>
 
-## 📚 **Livres (EN)**
+## 📚 Livres (EN)
 - [OSINT Handbook (2020)](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 - [NSA OSINT Handbook (2002)](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf)
 - [NATO OSINT Handbook v1.2 (2001)](https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up)
@@ -68,7 +64,7 @@
 ---
 <br>
 
-## 🖼️ **Slides / PDF (FR)**
+## 🖼️ Slides / PDF (FR)
 - [Diaporama OSINT - ENSIB](https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf)
 - [Security Intelligence Handbook (Fr)](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf)
 - [Formation OSINT - Tzkuat](https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf)
@@ -77,7 +73,7 @@
 ---
 <br>
 
-## 📄 **Slides / PDF (EN)**
+## 📄 Slides / PDF (EN)
 - [OSINT Paper (EN)](https://ceur-ws.org/Vol-3654/short3.pdf)
 - [Dangerous Google Hacking Database](https://repo.tzku.at/documentation/osint/Dangerours%20Google%20Hacking%20Database%20and%20Attacks.pdf)
 - [OSINT Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5281845)
@@ -85,7 +81,7 @@
 ---
 <br>
 
-## 🎥 **Vidéos**
+## 🎥 Vidéos
 - [Vidéo 1](https://www.youtube.com/watch?v=gZXZmHRxDWk)
 - [Vidéo 2](https://www.youtube.com/watch?v=GameXsraN8Y)
 - [Vidéo 3](https://www.youtube.com/watch?v=jP47EQGpOY8)
@@ -95,7 +91,7 @@
 ---
 <br>
 
-## 🧰 **Tools**
+## 🧰 Tools
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
 - [500 Outils OSINT](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
 - [Awesome OSINT (GitHub)](https://github.com/jivoi/awesome-osint)
@@ -114,17 +110,17 @@
 ---
 <br>
 
-## 🔍 **Other Sources**
+## 🔍 Other Sources
 - [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
 - [OPSEC](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 ---
 <br>
 
-# 🕵️‍♂️ **OSINT Communauté**<br><br>
+# 🕵️‍♂️ OSINT Communauté
+<br><br>
 
-## 🇫🇷 **Communautés FR**
-
+## 🇫🇷 Communautés FR
 Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, événements et collaborations. Leur Discord est le cœur des échanges (**16 000+ membres**).
 
 - [Rejoindre Discord OSINTFR](https://discord.com/invite/dWY9sWFKYD)
@@ -143,14 +139,16 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ---
 <br>
 
-## 🌍 **Communautés EN**
+## 🌍 Communautés EN
 - [OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)
 
 ---
 <br>
-# 🕵️‍♂️ **OSINT Formations**<br><br>
 
-## 🎓 **Formations gratuites**
+# 🕵️‍♂️ OSINT Formations
+<br><br>
+
+## 🎓 Formations gratuites
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
 - [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/open-source-intelligence/)
@@ -160,7 +158,7 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ---
 <br>
 
-## 💼 **Formations / certifications payantes**
+## 💼 Formations / certifications payantes
 - [Greydynamics](https://greydynamics.com/intelligence-school/)
 - [Openfacto](https://openfacto.fr/)
 - [CSI](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/)
@@ -174,7 +172,7 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ---
 <br>
 
-## 🕹️ **Challenges FR**
+## 🕹️ Challenges FR
 - [ISFRED](https://isfred.fr/)
 - [Ozint](https://ozint.eu/)
 - [The OSINT Project](https://the-osint-project.fr/)
@@ -183,15 +181,16 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ---
 <br>
 
-## 🧩 **Plateformes**
+## 🧩 Plateformes
 - [OSINT Industries](https://www.osint.industries/)
 - [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
 - [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)
-  
+
 ---
 <br>
 
-# 🕵️‍♂️ **OSINT Jobs**
+# 🕵️‍♂️ OSINT Jobs
+<br>
 
 ## 🇫🇷 Entreprises françaises spécialisées en OSINT
 Voici une liste d’entreprises françaises dont l’OSINT (Open Source Intelligence) est le cœur d’activité ou un service majeur.
@@ -232,7 +231,7 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 ---
 <br>
 
-## 🏢 **Recherche Emploi**
+## 🏢 Recherche Emploi
 - **Osint-Jobs**. [Site officiel](https://www.osint-jobs.com/)
 - **Osintinvestigations**. [Site officiel](https://www.osintinvestigations.fr/emplois/)
 - **Indeed**. [Site officiel](https://fr.indeed.com/q-osint-emplois.html?vjk=2d0ae8b1a6b89c36)
@@ -241,7 +240,7 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 ---
 <br>
 
-## 🎖️ **Bonus**
+## 🎖️ Bonus
 - **DRPP**. [Site officiel](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://choisirleservicepublic.gouv.fr/offre-emploi/drpp---enqueteur-en-sources-ouvertes----osint-hf-hf-reference-MINT_BA075PNB-110202/&ved=2ahUKEwilsoPmtYqQAxWzRqQEHQ1IOHQQFnoECBoQAw&usg=AOvVaw0D1qFPQwZcqLewUYmEwp-9)
 - **TRACFIN**. [Site officiel](https://choisirleservicepublic.gouv.fr/offre-emploi/tracfin---analyste--lutte-contre-les-ingerences-etrangeres--hf-reference-MEF_2025-24501/)
 - **DGSI**. [Site officiel](https://www.dgsi.interieur.gouv.fr/travailler-a-dgsi/candidater)
@@ -249,9 +248,10 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 - **DGSE**. [Site officiel](https://www.dgse.gouv.fr/fr/le-recrutement/nous-rejoindre)
 
 <br><br>
+
 ![OSINT Image](picture/osint_picture.jpg)
 
 ---
 
 > 📌 *Dernière mise à jour : Octobre 2025*  
-> _Contributions bienvenues via Pull Request._
+> _Contributions bienvenues via Pull
