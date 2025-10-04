@@ -156,7 +156,51 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 
 <a id="communautes-en"></a>
 ## 🌍 Communautés EN
-- [OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)
+
+
+<a id="communautes-en"></a>
+## 🌍 Communautés EN
+
+<a id="communautes-en"></a>
+## 🌍 Communautés EN
+
+- **[OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)**  
+  Organisation internationale dédiée à la professionnalisation du domaine OSINT.  
+  Elle propose des ressources, des standards et des initiatives pour renforcer la reconnaissance du renseignement open source.
+
+- **[Project Owl (Discord)](https://discord.com/invite/projectowl)**  
+  Communauté anglophone très active dédiée à la surveillance d’événements mondiaux en temps réel via l’OSINT.  
+  Idéale pour apprendre le monitoring et la vérification d’informations sur les réseaux sociaux.
+
+- **[Faytuks News (Discord)](https://discord.com/invite/faytuks)**  
+  Espace de veille communautaire centré sur les conflits, la géopolitique et l’actualité internationale.  
+  Les membres y partagent des analyses et des vérifications visuelles issues de sources ouvertes.
+
+- **[Overt Operator (Discord)](https://discord.gg/KRxZkejyWS)**  
+  Serveur géré par la communauté Overt Operator, spécialisé dans les techniques OSINT, HUMINT et cyber threat intelligence.  
+  Discussions techniques, partage de bases de données publiques et exercices pratiques.
+
+- **[OSINTIA (Forum)](https://osintia.com/)**  
+  Forum anglophone indépendant pour les analystes OSINT.  
+  Espace d’échanges sur les outils, les investigations, la cartographie d’informations et les techniques de collecte de données.
+
+- **[OSINT Ambition Forum](https://forum.osintambition.org/)**  
+  Communauté internationale pour chercheurs, analystes et passionnés OSINT.  
+  Propose des fils de discussion thématiques, des études de cas et des tutoriels méthodologiques.
+
+- **[HackerSploit Forum – Section OSINT](https://forum.hackersploit.org/c/ostin/32)**  
+  Forum éducatif créé par l’équipe HackerSploit.  
+  Contient une section dédiée à l’OSINT où sont partagés des outils, des scripts et des guides pour les enquêtes numériques.
+
+- **[Reddit /r/OSINT](https://www.reddit.com/r/OSINT/)**  
+  L’un des espaces anglophones les plus actifs sur l’OSINT (100k+ membres).  
+  Discussions sur la géolocalisation, la recherche d’identités, la vérification d’images et le recueil de données publiques.
+
+- **[Meetup – Open Source Intelligence (USA)](https://www.meetup.com/topics/osint/us/)**  
+  Regroupe plusieurs communautés locales OSINT à travers les États-Unis.  
+  Permet de rejoindre des ateliers, conférences ou groupes de travail sur le renseignement open source et la cybersécurité.
+
+
 
 ---
 <br>
