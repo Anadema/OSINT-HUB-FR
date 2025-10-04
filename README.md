@@ -117,6 +117,7 @@
 - [Factscope AI](https://www.factscopeai.com/)
 - [Maltego](https://www.maltego.com/)
 - [Based Re](https://bf.based.re/)
+- [Archive youtube](https://preservetube.com/)
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
 
 ---
