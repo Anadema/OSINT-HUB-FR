@@ -104,6 +104,7 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ---
 
 ## 💼 **Formations / certifications payantes**
+- [Greydynamics](https://greydynamics.com/intelligence-school/)
 - [Openfacto](https://openfacto.fr/)
 - [CSI]([https://openfacto.fr/](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/))
 - [Mosse](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html))
@@ -139,6 +140,20 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 - **Vélite (Paris)** – Intelligence économique & investigations. [Site officiel](https://www.velite.fr)
 - **Sahar (Paris)** – Analyse & veille stratégique. [Site officiel](https://www.sahar.fr)
 - **MA Cyber (Île-de-France)** – Audits & investigations numériques. [Site officiel](https://www.ma-cyber.com)
+
+---
+
+## 🏢 **Entreprises (International)**
+- **Greydynamic**. [Site officiel](https://greydynamics.com/work-with-us/)
+- **SocialLinks**. [Site officiel](https://sociallinks.io/products/sl-professional/i2)
+- **Predictalab**. [Site officiel](https://predictalab.fr/services#investigations)
+
+---
+## 🏢 **Recherche Emploi**
+- **Osint-Jobs**. [Site officiel](https://www.osint-jobs.com/)
+- **Osintinvestigations**. [Site officiel](https://www.osintinvestigations.fr/emplois/)
+- **Indeed**. [Site officiel](https://fr.indeed.com/q-osint-emplois.html?vjk=2d0ae8b1a6b89c36)
+- **Glassdoor**. [Site officiel](https://www.glassdoor.fr/Emploi/osint-emplois-SRCH_KO0,5.htm)
 
 ---
 
