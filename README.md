@@ -138,26 +138,43 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
   
 ---
 
-## 🏢 **Entreprises (France)**
-- **XMCO (Paris)** – Cybersécurité & OSINT. Analyste Cybercriminalité/Darkweb (CDI). [Site officiel](https://www.xmco.fr)
-- **Ariane Group (Île-de-France)** – Intelligence économique (CDI). [Site officiel](https://www.ariane.group)
-- **Epieos (Paris)** – Leader français en outils OSINT. [Site officiel](https://www.epieos.com)
-- **Elephantastic (Île-de-France)** – Enquêtes corporate & anti-fraude. [Site officiel](https://www.elephantastic.fr)
-- **Aleph-Networks (Paris)** – Deeptech OSINT SaaS. [Site officiel](https://www.aleph-networks.com)
-- **Manufacture Française d'OSINT** – Due diligence & veille stratégique. [Site officiel](https://www.mf-osint.com)
-- **Sopra Steria (France)** – Cybersécurité & renseignement. [Site officiel](https://www.soprasteria.com)
-- **Vélite (Paris)** – Intelligence économique & investigations. [Site officiel](https://www.velite.fr)
-- **Sahar (Paris)** – Analyse & veille stratégique. [Site officiel](https://www.sahar.fr)
-- **MA Cyber (Île-de-France)** – Audits & investigations numériques. [Site officiel](https://www.ma-cyber.com)
+# 🇫🇷 Entreprises françaises spécialisées en OSINT
+Voici une liste d’entreprises françaises dont l’OSINT (Open Source Intelligence) est le cœur d’activité ou un service majeur.
+
+- **Affinis Conseil** – Renseignement d’affaires, OSINT & HUMINT, veille stratégique. [Site officiel](https://www.affinis-conseil.com)  
+- **Redintel** – Plateforme d’analyse OSINT & Darkweb, détection de menaces. [Site officiel](https://www.redintel.fr)  
+- **Basileak (par Adacis)** – Solution souveraine d’investigation et d’analyse OSINT. [Site officiel](https://www.adacis.net/solutions/basileak/)  
+- **Bearops** – Sécurité offensive, investigations OSINT, audit d’exposition numérique. [Présentation Wikipédia](https://fr.wikipedia.org/wiki/Bearops)  
+- **Hacker Privé** – Enquêtes OSINT, réputation numérique, due diligence digitale. [Site officiel](https://www.hackerprive.com)  
+- **XMCO (Paris)** – Cybersécurité & OSINT. Analyste Cybercriminalité/Darkweb (CDI). [Site officiel](https://www.xmco.fr)  
+- **Ariane Group (Île-de-France)** – Intelligence économique et cybersécurité. [Site officiel](https://www.ariane.group)  
+- **Epieos (Paris)** – Leader français en outils OSINT (analyse d’e-mails, métadonnées, etc.). [Site officiel](https://www.epieos.com)  
+- **Elephantastic (Île-de-France)** – Enquêtes corporate & anti-fraude, renseignement open source. [Site officiel](https://elephantastic.io/)  
+- **Aleph-Networks (Paris)** – Deeptech française, SaaS OSINT & veille sur les zones grises du web. [Site officiel](https://www.aleph-networks.com)  
+- **Manufacture Française d'OSINT** – Due diligence, veille stratégique, formation OSINT. [Site officiel](https://manufacture-osint.fr/)  
+- **Sopra Steria (France)** – Cybersécurité, analyse de menace & renseignement. [Site officiel](https://www.soprasteria.com)  
+- **Vélite (Paris)** – Intelligence économique, investigations corporate, OSINT. [Site officiel](https://www.cabinet-velite.com/cabinet/)  
+- **Sahar (Paris)** – Cabinet d’analyse, veille stratégique et OSINT institutionnel. [Site officiel](https://www.sahar.fr)
 
 ---
 
-## 🏢 **Entreprises (International)**
-- **Greydynamic**. [Site officiel](https://greydynamics.com/work-with-us/)
-- **SocialLinks**. [Site officiel](https://sociallinks.io/products/sl-professional/i2)
-- **Predictalab**. [Site officiel](https://predictalab.fr/services#investigations)
+# 🌍 Entreprises internationales spécialisées en OSINT
+Voici une sélection d’entreprises reconnues à l’international pour leurs services, outils et formations en OSINT (Open Source Intelligence).
+
+- **Greydynamics** – Renseignement stratégique, analyse géopolitique, OSINT & cyber threat intelligence. [Site officiel](https://greydynamics.com/work-with-us/)  
+- **SocialLinks** – Suite d’outils OSINT professionnels intégrés à Maltego et i2 Analyst’s Notebook. [Site officiel](https://sociallinks.io/products/sl-professional/i2)  
+- **PredictaLab** – Investigations, analyses OSINT et renseignement d’affaires à l’échelle internationale. [Site officiel](https://predictalab.fr/services#investigations)  
+- **Molfar OSINT Agency** – Enquêtes, renseignement privé, vérification militaire, formation OSINT (Ukraine / international). [Site officiel](https://molfar.com/en/)  
+- **Semantic Visions** – Analyse média, détection de tendances, veille géopolitique & conformité (République tchèque). [Présentation](https://en.wikipedia.org/wiki/Semantic_Visions)  
+- **OSINT Combine (NexusXplore)** – Logiciels et formations OSINT destinés aux gouvernements et entreprises. [Site officiel](https://www.osintcombine.com/company)  
+- **Golden Owl** – Intelligence open source pour due diligence, réputation et analyse de risque. [Site officiel](https://www.golden-owl.eu/)  
+- **Global OSINT** – Services globaux : veille concurrentielle, analyse de risques, formation OSINT. [Site officiel](https://globalosint.com/en/our-services-en/)  
+- **OSINT Industries (UK)** – Plateforme de renseignement en temps réel pour les secteurs gouvernementaux et privés. [Présentation](https://www.internationalsecurityexpo.com/exhibitors/osint-industries)  
+- **Farallon, LLC (USA)** – Investigations et analyse OSINT multi-sources, due diligence, monitoring réputationnel. [Site officiel](https://farallon.io/)  
+- **TextOre** – Analyse stratégique et géopolitique, opérations d’influence, veille multilingue. [Site officiel](https://www.textore.net/about/)
 
 ---
+
 ## 🏢 **Recherche Emploi**
 - **Osint-Jobs**. [Site officiel](https://www.osint-jobs.com/)
 - **Osintinvestigations**. [Site officiel](https://www.osintinvestigations.fr/emplois/)
