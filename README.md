@@ -158,8 +158,8 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ---
 
 ## 🎖️ **Bonus**
-- **Ministère de l'Intérieur (DRPP)** : Enquêteur en sources ouvertes - OSINT (H/F), Paris.  
-- **TRACFIN** : Expert OSINT/Crypto (H/F) – Lutte contre le blanchiment.
+- **Ministère de l'Intérieur (DRPP)**. [Site officiel](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://choisirleservicepublic.gouv.fr/offre-emploi/drpp---enqueteur-en-sources-ouvertes----osint-hf-hf-reference-MINT_BA075PNB-110202/&ved=2ahUKEwilsoPmtYqQAxWzRqQEHQ1IOHQQFnoECBoQAw&usg=AOvVaw0D1qFPQwZcqLewUYmEwp-9)
+- **TRACFIN**. [Site officiel](https://choisirleservicepublic.gouv.fr/offre-emploi/tracfin---analyste--lutte-contre-les-ingerences-etrangeres--hf-reference-MEF_2025-24501/)
 
 
 
