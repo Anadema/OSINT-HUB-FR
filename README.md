@@ -106,9 +106,9 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ## 💼 **Formations / certifications payantes**
 - [Greydynamics](https://greydynamics.com/intelligence-school/)
 - [Openfacto](https://openfacto.fr/)
-- [CSI]([https://openfacto.fr/](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/))
-- [Mosse](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html))
-- [Analyste OSINT 1](https://www.tactical-osint-academy.com/analyste-osint-niveau-1))
+- [CSI](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/)
+- [Mosse](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
+- [Analyste OSINT 1](https://www.tactical-osint-academy.com/analyste-osint-niveau-1)
 - [Oteria - Bac+5 Expert en Cybersécurité](https://www.oteria.fr/bac-5-expert-en-cybersecurite/renseignement-et-cybermenaces)
 - [PSB Edu - Open Source Intelligence](https://www.psbedu.paris/fr/actus/open-source-intelligence-technique-renseignement-service-intelligence-economique)
 - [OSMOSIS Institute](https://osmosisinstitute.org/osc/)
