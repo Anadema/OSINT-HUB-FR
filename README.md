@@ -1,6 +1,6 @@
 # 🕵️‍♂️ **OSINT**
 
-![OSINT Image](picture/osint_picture.jpg)
+![OSINT Image](logo.png)
 
 ---
 
@@ -134,6 +134,10 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 ## 🎖️ **Bonus**
 - **Ministère de l'Intérieur (DRPP)** : Enquêteur en sources ouvertes - OSINT (H/F), Paris.  
 - **TRACFIN** : Expert OSINT/Crypto (H/F) – Lutte contre le blanchiment.
+
+
+
+![OSINT Image](picture/osint_picture.jpg)
 
 ---
 
