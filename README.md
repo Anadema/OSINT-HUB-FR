@@ -20,10 +20,10 @@
 ---
 
 ## 📚 **Livres (EN)**
-- [OSINT Handbook 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
-- [NSA OSINT Handbook 2002](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf)
-- [NATO OSINT Handbook v1.2 2001](https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up)
-- [The Long History of OSINT 2023](https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT)
+- [OSINT Handbook (2020)](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+- [NSA OSINT Handbook (2002)](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf)
+- [NATO OSINT Handbook v1.2 (2001)](https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up)
+- [The Long History of OSINT (2023)](https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT)
 - [OSINT Handbook (13$)](https://buymeacoffee.com/notescatalog/e/258542)
 
 ---
