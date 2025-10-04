@@ -1,3 +1,30 @@
+OSINT DATABASE FR /EN
+
+## 📑 Table des matières
+
+- [✍️ Articles](#-articles)
+- [🧭 Méthodes](#-méthodes)
+- [📚 Livres (EN)](#-livres-en)
+- [🖼️ Slides / PDF (FR)](#-slides--pdf-fr)
+- [📄 Slides / PDF (EN)](#-slides--pdf-en)
+- [🎥 Vidéos](#-vidéos)
+- [🧰 Tools](#-tools)
+- [🔍 Other Sources](#-other-sources)
+- [🕵️‍♂️ OSINT Communauté](#-osint-communauté)
+  - [🇫🇷 Communautés FR](#-communautés-fr)
+  - [🌍 Communautés EN](#-communautés-en)
+- [🕵️‍♂️ OSINT Formations](#-osint-formations)
+  - [🎓 Formations gratuites](#-formations-gratuites)
+  - [💼 Formations / certifications payantes](#-formations--certifications-payantes)
+  - [🕹️ Challenges FR](#-challenges-fr)
+  - [🧩 Plateformes](#-plateformes)
+- [🕵️‍♂️ OSINT Jobs](#-osint-jobs)
+  - [🇫🇷 Entreprises françaises spécialisées en OSINT](#-entreprises-françaises-spécialisées-en-osint)
+  - [🌍 Entreprises internationales spécialisées en OSINT](#-entreprises-internationales-spécialisées-en-osint)
+  - [🏢 Recherche Emploi](#-recherche-emploi)
+  - [🎖️ Bonus](#-bonus)
+
+
 # 🕵️‍♂️ **OSINT Ressources**
 
 <p align="center">
