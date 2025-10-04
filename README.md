@@ -77,6 +77,8 @@
 
 ---
 
+# 🕵️‍♂️ **OSINT Communauté**
+
 ## 🇫🇷 **Communautés FR**
 
 Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, événements et collaborations. Leur Discord est le cœur des échanges (**16 000+ membres**).
@@ -100,6 +102,8 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 - [OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)
 
 ---
+
+# 🕵️‍♂️ **OSINT Formations**
 
 ## 🎓 **Formations gratuites**
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
@@ -138,7 +142,9 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
   
 ---
 
-# 🇫🇷 Entreprises françaises spécialisées en OSINT
+# 🕵️‍♂️ **OSINT Jobs**
+
+## 🇫🇷 Entreprises françaises spécialisées en OSINT
 Voici une liste d’entreprises françaises dont l’OSINT (Open Source Intelligence) est le cœur d’activité ou un service majeur.
 
 - **Affinis Conseil** – Renseignement d’affaires, OSINT & HUMINT, veille stratégique. [Site officiel](https://www.affinis-conseil.com)  
@@ -158,7 +164,7 @@ Voici une liste d’entreprises françaises dont l’OSINT (Open Source Intellig
 
 ---
 
-# 🌍 Entreprises internationales spécialisées en OSINT
+## 🌍 Entreprises internationales spécialisées en OSINT
 Voici une sélection d’entreprises reconnues à l’international pour leurs services, outils et formations en OSINT (Open Source Intelligence).
 
 - **Greydynamics** – Renseignement stratégique, analyse géopolitique, OSINT & cyber threat intelligence. [Site officiel](https://greydynamics.com/work-with-us/)  
