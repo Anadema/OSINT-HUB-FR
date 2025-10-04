@@ -1,4 +1,6 @@
-OSINT DATABASE FR /EN
+# 🧠 OSINT DATABASE (France / International)
+---
+
 
 ## 📑 Table des matières
 
