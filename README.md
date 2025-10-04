@@ -27,6 +27,7 @@
   - [🎓 Formations gratuites](#formations-gratuites)
   - [💼 Formations / certifications payantes](#formations--certifications-payantes)
   - [🕹️ Challenges FR](#challenges-fr)
+  - [🕹️ Challenges FR](#challenges-en)
   - [🧩 Plateformes](#plateformes)
     
 - [🕵️‍♂️ OSINT Jobs](#osint-jobs)
