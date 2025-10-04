@@ -1,6 +1,6 @@
 # 🕵️‍♂️ **OSINT**
 
-![OSINT Image](logo.png)
+![OSINT Image](picture/osint-logo.jpg)
 
 ---
 
