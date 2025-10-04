@@ -99,6 +99,7 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
 - [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/open-source-intelligence/)
 - [Cybersecurity Tools and Practices - edX](https://www.edx.org/course/cybersecurity-tools-and-practices)
+- [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
 
 ---
 
