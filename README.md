@@ -2,14 +2,16 @@ OSINT DATABASE FR /EN
 
 ## 📑 Table des matières
 
-- [✍️ Articles](#-articles)
-- [🧭 Méthodes](#-méthodes)
-- [📚 Livres (EN)](#-livres-en)
-- [🖼️ Slides / PDF (FR)](#-slides--pdf-fr)
-- [📄 Slides / PDF (EN)](#-slides--pdf-en)
-- [🎥 Vidéos](#-vidéos)
-- [🧰 Tools](#-tools)
-- [🔍 Other Sources](#-other-sources)
+
+- [🕵️‍♂️ OSINT Ressources](#-osint-ressources)
+  - [✍️ Articles](#-articles)
+  - [🧭 Méthodes](#-méthodes)
+  - [📚 Livres (EN)](#-livres-en)
+  - [🖼️ Slides / PDF (FR)](#-slides--pdf-fr)
+  - [📄 Slides / PDF (EN)](#-slides--pdf-en)
+  - [🎥 Vidéos](#-vidéos)
+  - [🧰 Tools](#-tools)
+  - [🔍 Other Sources](#-other-sources)
 - [🕵️‍♂️ OSINT Communauté](#-osint-communauté)
   - [🇫🇷 Communautés FR](#-communautés-fr)
   - [🌍 Communautés EN](#-communautés-en)
