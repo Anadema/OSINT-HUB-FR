@@ -6,7 +6,7 @@
 ---
 
 ## ✍️ **Articles**
-- [Fiche métier FR](https://ozint.eu/fiche-pedagogique/methodologie/](https://webbreacher.com/2018/07/12/osint-map/](https://guardia.school/metiers/osint-analyst.html)
+- [Fiche métier FR](https://webbreacher.com/2018/07/12/osint-map/](https://guardia.school/metiers/osint-analyst.html)
 - [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
 
 ---
