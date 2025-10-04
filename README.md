@@ -165,11 +165,11 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 - **SocialLinks** – Suite d’outils OSINT professionnels intégrés à Maltego et i2 Analyst’s Notebook. [Site officiel](https://sociallinks.io/products/sl-professional/i2)  
 - **PredictaLab** – Investigations, analyses OSINT et renseignement d’affaires à l’échelle internationale. [Site officiel](https://predictalab.fr/services#investigations)  
 - **Molfar OSINT Agency** – Enquêtes, renseignement privé, vérification militaire, formation OSINT (Ukraine / international). [Site officiel](https://molfar.com/en/)  
-- **Semantic Visions** – Analyse média, détection de tendances, veille géopolitique & conformité (République tchèque). [Présentation](https://en.wikipedia.org/wiki/Semantic_Visions)  
+- **Semantic Visions** – Analyse média, détection de tendances, veille géopolitique & conformité (République tchèque). [Site officiel](https://www.semantic-visions.com/)  
 - **OSINT Combine (NexusXplore)** – Logiciels et formations OSINT destinés aux gouvernements et entreprises. [Site officiel](https://www.osintcombine.com/company)  
 - **Golden Owl** – Intelligence open source pour due diligence, réputation et analyse de risque. [Site officiel](https://www.golden-owl.eu/)  
 - **Global OSINT** – Services globaux : veille concurrentielle, analyse de risques, formation OSINT. [Site officiel](https://globalosint.com/en/our-services-en/)  
-- **OSINT Industries (UK)** – Plateforme de renseignement en temps réel pour les secteurs gouvernementaux et privés. [Présentation](https://www.internationalsecurityexpo.com/exhibitors/osint-industries)  
+- **OSINT Industries (UK)** – Plateforme de renseignement en temps réel pour les secteurs gouvernementaux et privés. [Site officiel](https://www.internationalsecurityexpo.com/exhibitors/osint-industries)  
 - **Farallon, LLC (USA)** – Investigations et analyse OSINT multi-sources, due diligence, monitoring réputationnel. [Site officiel](https://farallon.io/)  
 - **TextOre** – Analyse stratégique et géopolitique, opérations d’influence, veille multilingue. [Site officiel](https://www.textore.net/about/)
 
