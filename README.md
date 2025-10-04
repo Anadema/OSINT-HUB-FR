@@ -136,30 +136,43 @@
 <a id="communautes-fr"></a>
 ## 🇫🇷 Communautés FR
 
-Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, événements et collaborations. Leur Discord est le cœur des échanges (**16 000+ membres**).
+- **[OSINTFR](https://osintfr.com/)**  
+  La principale communauté francophone OSINT.  
+  Avec plus de **16 000 membres** sur Discord. :contentReference[oaicite:0]{index=0}  
+  Ce serveur est très actif et structuré autour des échanges, des formations, des défis collaboratifs, et de la veille. :contentReference[oaicite:1]{index=1}  
+  - 🔗 [Rejoindre le Discord OSINTFR](https://discord.com/invite/dWY9sWFKYD)  
+  - ▶️ [Chaîne YouTube OSINTFR](https://www.youtube.com/@osintfr/videos)
 
-- [Rejoindre Discord OSINTFR](https://discord.com/invite/dWY9sWFKYD)
-- [Site OSINTFR](https://osintfr.com/)
-- [Chaîne YouTube OSINTFR](https://www.youtube.com/@osintfr/videos)
+- **[DEXY | Community](https://discord.gg/bDueEj4Dt9)**  
+  Communauté francophone centrée sur l’OSINT et la cybersécurité.  
+  Entraide entre amateurs et professionnels, partage d’outils, méthodologies et retours d’expérience.
 
-**DEXY | Community :** Espace francophone pour cybersécurité et OSINT, avec partage d'outils, techniques et entraide entre pros et débutants.  
-- [Rejoindre Discord DEXY](https://discord.gg/bDueEj4Dt9)
+- **[Greysky (Discord)](https://discord.gg/daFvd4h6)**  
+  Serveur francophone dédié à l’OSINT, à la cyberdéfense et à la veille technique.  
+  Tutos, bots, discussions éthiques sont parmi les usages fréquemment cités.
 
-**Greysky :** QG pour passionnés d'OSINT et cyberdéfense, avec veille, tutos, bots et discussions éthiques.  
-- [Rejoindre Discord Greysky](https://discord.gg/daFvd4h6)
+- **[LeakWeb (Discord)](https://discord.gg/h5kRYEZKy2)**  
+  Communauté axée sur le partage de leaks, l’exposition de données publiques et l’OSINT technique.  
+  Intéressant pour les analystes cherchant des ressources “dures” et des techniques avancées.
 
-**LeakWeb :** Communauté pour partager leaks, astuces OSINT et ressources exclusives.  
-- [Rejoindre Discord LeakWeb](https://discord.gg/h5kRYEZKy2)
+- **[OSINT PROTECT FR (Discord)](https://discord.gg/h3uwNRbCvQ)**  
+  Communauté orientée “protection mutuelle par l’OSINT”. :contentReference[oaicite:2]{index=2}  
+  Le serveur offre des canaux de discussion sur l’OSINT, le signalement d’incidents, la collaboration et le renforcement de la résilience numérique. :contentReference[oaicite:3]{index=3}  
+  Note : le nombre d’interactions visibles est plus faible, vérifie l’activité réelle avant de te lancer.
+
+- **[Club OSINT & Veille – AEGE (Discord)](https://discord.com/invite/GrEFhBCbVV)**  
+  Initiative d’une association d’étudiants/ingénieurs (AEGE).  
+  Objectif : créer un espace francophone d’OSINT / veille, de challenges internes et de partage d’actualités.  
+  (Ce lien parfois cité dans les réseaux étudiants ; faudra tester s’il est encore actif.)
+
+- **[OSINTOPIA / OZINT (Plateforme + communauté)](https://ozint.eu/)**  
+  Plateforme francophone d’OSINT, propose des articles, challenges, espaces collaboratifs.  
+  Souvent citée comme référence communautaire. :contentReference[oaicite:4]{index=4}  
+  Vérifie s’ils ont un Discord actif ou des groupes de discussion associés.
+
 
 ---
 <br>
-
-<a id="communautes-en"></a>
-## 🌍 Communautés EN
-
-
-<a id="communautes-en"></a>
-## 🌍 Communautés EN
 
 <a id="communautes-en"></a>
 ## 🌍 Communautés EN
