@@ -18,14 +18,17 @@
   - [🎥 Vidéos](#videos)
   - [🧰 Tools](#tools)
   - [🔍 Other Sources](#other-sources)
+    
 - [🕵️‍♂️ OSINT Communauté](#osint-communaute)
   - [🇫🇷 Communautés FR](#communautes-fr)
   - [🌍 Communautés EN](#communautes-en)
+    
 - [🕵️‍♂️ OSINT Formations](#osint-formations)
   - [🎓 Formations gratuites](#formations-gratuites)
   - [💼 Formations / certifications payantes](#formations--certifications-payantes)
   - [🕹️ Challenges FR](#challenges-fr)
   - [🧩 Plateformes](#plateformes)
+    
 - [🕵️‍♂️ OSINT Jobs](#osint-jobs)
   - [🇫🇷 Entreprises françaises spécialisées en OSINT](#entreprises-francaises-specialisees-en-osint)
   - [🌍 Entreprises internationales spécialisées en OSINT](#entreprises-internationales-specialisees-en-osint)
