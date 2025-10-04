@@ -249,10 +249,52 @@
 
 <a id="challenges-fr"></a>
 ## 🕹️ Challenges FR
-- [ISFRED](https://isfred.fr/)
-- [Ozint](https://ozint.eu/)
-- [The OSINT Project](https://the-osint-project.fr/)
-- [CTF Challenge OSINT](https://ctf.challenge-osint.fr/)
+
+- **[ISFRED](https://isfred.fr/)** 🟢 **Actif**  
+  Plateforme française de formation et de challenges OSINT.  
+  Propose des parcours pédagogiques et des énigmes progressives autour de la recherche d’informations ouvertes.
+
+- **[Osintopia / OZINT](https://ozint.eu/)** 🟢 **Actif**  
+  Plateforme communautaire francophone dédiée à l’OSINT, regroupant des articles, formations et challenges pratiques à résoudre seul ou en équipe.
+
+- **[The OSINT Project](https://the-osint-project.fr/)** 🟠 **Peu actif**  
+  Projet français proposant des défis OSINT, des ressources méthodologiques et des études de cas collaboratives.  
+  Les challenges sont parfois ponctuels (vérifier la section “Événements”).
+
+- **[CTF Challenge OSINT](https://ctf.challenge-osint.fr/)** 🟢 **Actif**  
+  Instance CTF francophone dédiée exclusivement à l’OSINT.  
+  Organisée par la communauté OSINT-FR, elle propose des scénarios réguliers et un classement public.
+
+- **[PredictaLab CTF](https://ctf.predictalab.fr/)** 🔴 **À vérifier**  
+  Plateforme française qui a hébergé des CTF et exercices OSINT à vocation pédagogique.  
+  Le site reste en ligne, mais l’activité semble irrégulière ces derniers mois.
+  
+
+---
+
+<a id="challenges-en"></a>
+## 🕹️ Challenges EN
+
+- **[Trace Labs — Search Party CTF](https://www.tracelabs.org/initiatives/search-party)** 🟢 **Actif**  
+  Organisation OSINT internationale à but non lucratif.  
+  Organise régulièrement des CTF basés sur des enquêtes réelles de personnes disparues — “OSINT for good”.
+
+- **[OSINT For All — The Unsolvable CTF](https://osintforall.in/ctf/)** 🟠 **Peu actif**  
+  Projet communautaire proposant des énigmes et investigations OSINT.  
+  Moins de mises à jour récentes mais toujours en ligne avec des ressources intéressantes.
+
+- **[OSINT4Fun — Exercises & Advent Challenges](https://en.osint4fun.eu/)** 🟢 **Actif**  
+  Site de défis OSINT en ligne (énigmes, images, coordonnées, etc.)  
+  Publie régulièrement de nouveaux challenges (séries “Advent Calendar”).
+
+- **[List of OSINT Exercises — Gralhix](https://gralhix.com/list-of-osint-exercises/)** 🟢 **Actif**  
+  Agrégateur de plateformes et CTF OSINT mondiaux (liens directs vers des défis actifs).  
+  Bon point de départ pour trouver d’autres challenges anglophones.
+
+- **[Maveris / OSINT CTFs & Write-ups](https://infosecwriteups.com/maveris-osint-ctf-2024-writeup-1a18fcd66cb3)** 🟠 **Peu actif**  
+  Challenges ponctuels organisés par Maveris, NahamCon, etc.  
+  Activité non régulière mais write-ups très utiles pour s’entraîner sur des cas réels.
+
 
 ---
 <br>
