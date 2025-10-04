@@ -125,6 +125,7 @@
 <a id="other-sources"></a>
 ## 🔍 Other Sources
 - [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
+- [OSINT - Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05)
 - [OPSEC](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 ---
