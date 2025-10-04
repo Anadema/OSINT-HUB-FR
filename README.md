@@ -16,6 +16,7 @@
 - [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
 - [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
+- [Strategy Maltego](https://static.maltego.com/cdn/Infographics/12-OSINT-Steps-to-Gather-Online-Evidence.pdf)
 
 ---
 
@@ -67,6 +68,12 @@
 - [Maltego](https://www.maltego.com/)
 - [Based Re](https://bf.based.re/)
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
+
+---
+
+## 🔍 **Other Sources**
+- [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
+- [OPSEC](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 ---
 
@@ -126,7 +133,9 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 
 ## 🧩 **Plateformes**
 - [OSINT Industries](https://www.osint.industries/)
-
+- [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
+- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)
+  
 ---
 
 ## 🏢 **Entreprises (France)**
