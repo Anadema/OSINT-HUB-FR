@@ -15,7 +15,7 @@
 - [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
 - [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
-- [Mind map OSINT]([https://ozint.eu/fiche-pedagogique/methodologie/](https://webbreacher.com/2018/07/12/osint-map/))
+- [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
 
 ---
 
