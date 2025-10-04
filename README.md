@@ -3,6 +3,10 @@
 <p align="center">
   <img src="picture/osint-logo.jpg" alt="OSINT Image" width="550">
 </p>
+---
+## ✍️ **Articles**
+- [Fiche métier FR](https://ozint.eu/fiche-pedagogique/methodologie/](https://webbreacher.com/2018/07/12/osint-map/](https://guardia.school/metiers/osint-analyst.html)
+- [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
 
 ---
 
@@ -99,6 +103,7 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 
 ## 💼 **Formation payante**
 - [Openfacto](https://openfacto.fr/)
+- [Analyste OSINT 1]([https://openfacto.fr/](https://www.tactical-osint-academy.com/analyste-osint-niveau-1))
 - [Oteria - Bac+5 Expert en Cybersécurité](https://www.oteria.fr/bac-5-expert-en-cybersecurite/renseignement-et-cybermenaces)
 - [PSB Edu - Open Source Intelligence](https://www.psbedu.paris/fr/actus/open-source-intelligence-technique-renseignement-service-intelligence-economique)
 - [OSMOSIS Institute](https://osmosisinstitute.org/osc/)
