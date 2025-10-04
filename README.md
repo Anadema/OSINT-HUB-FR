@@ -138,40 +138,39 @@
 <a id="communautes-fr"></a>
 ## 🇫🇷 Communautés FR
 
-- **[OSINTFR](https://osintfr.com/)**  
+- **[OSINTFR](https://osintfr.com/)** 🟢 **Actif**  
   La principale communauté francophone OSINT.  
-  Avec plus de **16 000 membres** sur Discord. :contentReference[oaicite:0]{index=0}  
-  Ce serveur est très actif et structuré autour des échanges, des formations, des défis collaboratifs, et de la veille. :contentReference[oaicite:1]{index=1}  
+  Avec plus de **16 000 membres** sur Discord.  
+  Ce serveur est très actif et structuré autour des échanges, des formations, des défis collaboratifs, et de la veille.  
   - 🔗 [Rejoindre le Discord OSINTFR](https://discord.com/invite/dWY9sWFKYD)  
   - ▶️ [Chaîne YouTube OSINTFR](https://www.youtube.com/@osintfr/videos)
 
-- **[DEXY | Community](https://discord.gg/bDueEj4Dt9)**  
+- **[DEXY | Community](https://discord.gg/bDueEj4Dt9)** 🟢 **Actif**  
   Communauté francophone centrée sur l’OSINT et la cybersécurité.  
   Entraide entre amateurs et professionnels, partage d’outils, méthodologies et retours d’expérience.
 
-- **[Greysky (Discord)](https://discord.gg/daFvd4h6)**  
+- **[Greysky (Discord)](https://discord.gg/daFvd4h6)** 🟢 **Actif**  
   Serveur francophone dédié à l’OSINT, à la cyberdéfense et à la veille technique.  
   Tutos, bots, discussions éthiques sont parmi les usages fréquemment cités.
 
-- **[LeakWeb (Discord)](https://discord.gg/h5kRYEZKy2)**  
+- **[LeakWeb (Discord)](https://discord.gg/h5kRYEZKy2)** 🟠 **Peu actif**  
   Communauté axée sur le partage de leaks, l’exposition de données publiques et l’OSINT technique.  
   Intéressant pour les analystes cherchant des ressources “dures” et des techniques avancées.
 
-- **[OSINT PROTECT FR (Discord)](https://discord.gg/h3uwNRbCvQ)**  
-  Communauté orientée “protection mutuelle par l’OSINT”. :contentReference[oaicite:2]{index=2}  
-  Le serveur offre des canaux de discussion sur l’OSINT, le signalement d’incidents, la collaboration et le renforcement de la résilience numérique. :contentReference[oaicite:3]{index=3}  
-  Note : le nombre d’interactions visibles est plus faible, vérifie l’activité réelle avant de te lancer.
+- **[OSINT PROTECT FR (Discord)](https://discord.gg/h3uwNRbCvQ)** 🔴 **À vérifier**  
+  Communauté orientée “protection mutuelle par l’OSINT”.  
+  Le serveur offre des canaux de discussion sur l’OSINT, le signalement d’incidents et la résilience numérique.  
+  Activité incertaine ces derniers mois.
 
-- **[Club OSINT & Veille – AEGE (Discord)](https://discord.com/invite/GrEFhBCbVV)**  
+- **[Club OSINT & Veille – AEGE (Discord)](https://discord.com/invite/GrEFhBCbVV)** 🟠 **Peu actif**  
   Initiative d’une association d’étudiants/ingénieurs (AEGE).  
   Objectif : créer un espace francophone d’OSINT / veille, de challenges internes et de partage d’actualités.  
-  (Ce lien parfois cité dans les réseaux étudiants ; faudra tester s’il est encore actif.)
+  À vérifier, activité variable selon les périodes académiques.
 
-- **[OSINTOPIA / OZINT (Plateforme + communauté)](https://ozint.eu/)**  
-  Plateforme francophone d’OSINT, propose des articles, challenges, espaces collaboratifs.  
-  Souvent citée comme référence communautaire. :contentReference[oaicite:4]{index=4}  
-  Vérifie s’ils ont un Discord actif ou des groupes de discussion associés.
-
+- **[OSINTOPIA / OZINT (Plateforme + communauté)](https://ozint.eu/)** 🟢 **Actif**  
+  Plateforme francophone d’OSINT, proposant des articles, challenges et espaces collaboratifs.  
+  Souvent citée comme référence communautaire.  
+  Vérifie s’ils ont un Discord ou des groupes de discussion associés.
 
 ---
 <br>
@@ -179,42 +178,41 @@
 <a id="communautes-en"></a>
 ## 🌍 Communautés EN
 
-- **[OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)**  
+- **[OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)** 🟢 **Actif**  
   Organisation internationale dédiée à la professionnalisation du domaine OSINT.  
-  Elle propose des ressources, des standards et des initiatives pour renforcer la reconnaissance du renseignement open source.
+  Propose des ressources, standards et initiatives pour renforcer la reconnaissance du renseignement open source.
 
-- **[Project Owl (Discord)](https://discord.com/invite/projectowl)**  
-  Communauté anglophone très active dédiée à la surveillance d’événements mondiaux en temps réel via l’OSINT.  
+- **[Project Owl (Discord)](https://discord.com/invite/projectowl)** 🟢 **Actif**  
+  Communauté anglophone très active dédiée à la surveillance d’événements mondiaux via l’OSINT.  
   Idéale pour apprendre le monitoring et la vérification d’informations sur les réseaux sociaux.
 
-- **[Faytuks News (Discord)](https://discord.com/invite/faytuks)**  
+- **[Faytuks News (Discord)](https://discord.com/invite/faytuks)** 🟢 **Actif**  
   Espace de veille communautaire centré sur les conflits, la géopolitique et l’actualité internationale.  
-  Les membres y partagent des analyses et des vérifications visuelles issues de sources ouvertes.
+  Les membres y partagent des analyses et vérifications visuelles issues de sources ouvertes.
 
-- **[Overt Operator (Discord)](https://discord.gg/KRxZkejyWS)**  
-  Serveur géré par la communauté Overt Operator, spécialisé dans les techniques OSINT, HUMINT et cyber threat intelligence.  
-  Discussions techniques, partage de bases de données publiques et exercices pratiques.
+- **[Overt Operator (Discord)](https://discord.gg/KRxZkejyWS)** 🟢 **Actif**  
+  Communauté orientée sur les techniques OSINT, HUMINT et cyber threat intelligence.  
+  Discussions techniques, partage de bases de données et exercices pratiques.
 
-- **[OSINTIA (Forum)](https://osintia.com/)**  
-  Forum anglophone indépendant pour les analystes OSINT.  
-  Espace d’échanges sur les outils, les investigations, la cartographie d’informations et les techniques de collecte de données.
+- **[OSINTIA (Forum)](https://osintia.com/)** 🟠 **Peu actif**  
+  Forum anglophone indépendant pour analystes OSINT.  
+  Espace d’échanges sur les outils et la cartographie d’informations, mais peu d’activité récente.
 
-- **[OSINT Ambition Forum](https://forum.osintambition.org/)**  
-  Communauté internationale pour chercheurs, analystes et passionnés OSINT.  
-  Propose des fils de discussion thématiques, des études de cas et des tutoriels méthodologiques.
+- **[OSINT Ambition Forum](https://forum.osintambition.org/)** 🔴 **À vérifier**  
+  Communauté internationale pour chercheurs et passionnés OSINT.  
+  L’activité du forum semble limitée ces derniers temps.
 
-- **[HackerSploit Forum – Section OSINT](https://forum.hackersploit.org/c/ostin/32)**  
+- **[HackerSploit Forum – Section OSINT](https://forum.hackersploit.org/c/ostin/32)** 🟠 **Peu actif**  
   Forum éducatif créé par l’équipe HackerSploit.  
-  Contient une section dédiée à l’OSINT où sont partagés des outils, des scripts et des guides pour les enquêtes numériques.
+  Contient une section OSINT utile, mais les discussions sont sporadiques.
 
-- **[Reddit /r/OSINT](https://www.reddit.com/r/OSINT/)**  
+- **[Reddit /r/OSINT](https://www.reddit.com/r/OSINT/)** 🟢 **Actif**  
   L’un des espaces anglophones les plus actifs sur l’OSINT (100k+ membres).  
-  Discussions sur la géolocalisation, la recherche d’identités, la vérification d’images et le recueil de données publiques.
+  Discussions variées sur la géolocalisation, la recherche d’identités et la vérification d’images.
 
-- **[Meetup – Open Source Intelligence (USA)](https://www.meetup.com/topics/osint/us/)**  
+- **[Meetup – Open Source Intelligence (USA)](https://www.meetup.com/topics/osint/us/)** 🟢 **Actif**  
   Regroupe plusieurs communautés locales OSINT à travers les États-Unis.  
-  Permet de rejoindre des ateliers, conférences ou groupes de travail sur le renseignement open source et la cybersécurité.
-
+  Permet de participer à des ateliers, conférences et rencontres OSINT locales.
 
 
 ---
