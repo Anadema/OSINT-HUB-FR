@@ -1,7 +1,7 @@
 # 🕵️‍♂️ **OSINT**
 
 <p align="center">
-  <img src="picture/osint-logo.jpg" alt="OSINT Image" width="100">
+  <img src="picture/osint-logo.jpg" alt="OSINT Image" width="400">
 </p>
 
 ---
