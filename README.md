@@ -70,7 +70,7 @@
 
 ---
 
-## 🇫🇷 **Communauté FR**
+## 🇫🇷 **Communautés FR**
 
 Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, événements et collaborations. Leur Discord est le cœur des échanges (**16 000+ membres**).
 
@@ -89,12 +89,12 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 
 ---
 
-## 🌍 **Communauté EN**
+## 🌍 **Communautés EN**
 - [OSINT Foundation](https://www.osintfoundation.com/osint/Standards.asp)
 
 ---
 
-## 🎓 **Formation gratuite**
+## 🎓 **Formations gratuites**
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
 - [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/open-source-intelligence/)
@@ -103,8 +103,9 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 
 ---
 
-## 💼 **Formation payante**
+## 💼 **Formations / certifications payantes**
 - [Openfacto](https://openfacto.fr/)
+- [CSI]([https://openfacto.fr/](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/))
 - [Mosse]([https://openfacto.fr/](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html))
 - [Analyste OSINT 1]([https://openfacto.fr/](https://www.tactical-osint-academy.com/analyste-osint-niveau-1))
 - [Oteria - Bac+5 Expert en Cybersécurité](https://www.oteria.fr/bac-5-expert-en-cybersecurite/renseignement-et-cybermenaces)
@@ -122,7 +123,7 @@ Une communauté dynamique pour passionnés et pros de l'OSINT, avec outils, év�
 
 ---
 
-## 🧩 **Plateforme**
+## 🧩 **Plateformes**
 - [OSINT Industries](https://www.osint.industries/)
 
 ---
