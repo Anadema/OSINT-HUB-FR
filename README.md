@@ -46,6 +46,8 @@
 ## ✍️ Articles
 - [Fiche métier FR](https://guardia.school/metiers/osint-analyst.html)
 - [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
+- [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
+- [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
 
 ---
 <br>
@@ -224,13 +226,7 @@
 
 <a id="formations-gratuites"></a>
 ## 🎓 Formations gratuites
-
-Articles :
-- [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
-- [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
-
-Formations :
 - [Introduction to OSINT](https://www.securityblue.team/courses/introduction-to-osint)
 - [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/osint-fundamentals)
 - [Open-source Intelligence](https://training.kapsuungroup.com/courses/osint-beginners-course)
