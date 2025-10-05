@@ -75,7 +75,7 @@
 <br>
 
 <a id="slides-pdf-fr"></a>
-## 🖼️ Slides / PDF
+## 🖼️ Slides / PDF (FR)
 - [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Diaporama OSINT - ENSIB](https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf)
 - [Security Intelligence Handbook (Fr)](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf)
