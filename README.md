@@ -93,11 +93,10 @@
 
 <a id="videos"></a>
 ## 🎥 Vidéos
-- [Vidéo 1](https://www.youtube.com/watch?v=gZXZmHRxDWk)
-- [Vidéo 2](https://www.youtube.com/watch?v=GameXsraN8Y)
-- [Vidéo 3](https://www.youtube.com/watch?v=jP47EQGpOY8)
-- [Vidéo 4](https://www.youtube.com/watch?v=wn-i5bRVJbU)
-- [Vidéo 5](https://www.youtube.com/watch?v=qz5lSFS4BYY)
+- [Vidéo 1](https://www.youtube.com/watch?v=gZXZmHRxDWk) : OSINT ANALYST : missions, salaire, compétences et formations
+- [Vidéo 2](https://www.youtube.com/watch?v=GameXsraN8Y) : Introduction à l’OSINT : maîtrisez l'art de l'investigation en ligne
+- [Vidéo 3](https://www.youtube.com/watch?v=jP47EQGpOY8) : OSINT : dans la peau d'un hacker
+- [Vidéo 4](https://www.youtube.com/watch?v=qz5lSFS4BYY) : Top 10 des Outils OSINT GRATUITS Pour 2025 (Effrayant)
 
 ---
 <br>
