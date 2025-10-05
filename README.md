@@ -315,7 +315,7 @@
 
 <a id="entreprises-francaises-specialisees-en-osint"></a>
 ## 🇫🇷 Entreprises françaises spécialisées en OSINT
-Voici une liste d’entreprises françaises dont l’OSINT (Open Source Intelligence) est le cœur d’activité ou un service majeur.
+Voici une liste d’entreprises françaises dont l’OSINT est le cœur d’activité ou un service majeur.
 
 - **Affinis Conseil** – Renseignement d’affaires, OSINT & HUMINT, veille stratégique. [Site officiel](https://www.affinis-conseil.com)  
 - **Redintel** – Plateforme d’analyse OSINT & Darkweb, détection de menaces. [Site officiel](https://www.redintel.fr)  
@@ -337,7 +337,7 @@ Voici une liste d’entreprises françaises dont l’OSINT (Open Source Intellig
 
 <a id="entreprises-internationales-specialisees-en-osint"></a>
 ## 🌍 Entreprises internationales spécialisées en OSINT
-Voici une sélection d’entreprises reconnues à l’international pour leurs services, outils et formations en OSINT (Open Source Intelligence).
+Voici une sélection d’entreprises reconnues à l’international pour leurs services, outils et formations en OSINT.
 
 - **Greydynamics** – Renseignement stratégique, analyse géopolitique, OSINT & cyber threat intelligence. [Site officiel](https://greydynamics.com/work-with-us/)  
 - **SocialLinks** – Suite d’outils OSINT professionnels intégrés à Maltego et i2 Analyst’s Notebook. [Site officiel](https://sociallinks.io/products/sl-professional/i2)  
