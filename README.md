@@ -55,6 +55,7 @@
 - [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
 - [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
+- [Comprendre l’OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces)
 - [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
 - [Strategy Maltego](https://static.maltego.com/cdn/Infographics/12-OSINT-Steps-to-Gather-Online-Evidence.pdf)
 
@@ -223,11 +224,24 @@
 
 <a id="formations-gratuites"></a>
 ## 🎓 Formations gratuites
+
+Articles :
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
-- [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/open-source-intelligence/)
-- [Cybersecurity Tools and Practices - edX](https://www.edx.org/course/cybersecurity-tools-and-practices)
 - [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
+
+Formations :
+- [Introduction to OSINT](https://www.securityblue.team/courses/introduction-to-osint)
+- [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/osint-fundamentals)
+- [Open-source Intelligence](https://training.kapsuungroup.com/courses/osint-beginners-course)
+- [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini)
+- [CaseFile](https://courses.thecyberinst.org/courses/casefile)
+- [Social Media Research](https://learn.totem-project.org/courses/course-v1:Totem+TP_SMR_EN+001/about)
+- [Dark Web Foundations](https://www.darkwebacademy.com/courses/dark-web-foundations)
+- [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course)
+
+
+
 
 ---
 <br>
