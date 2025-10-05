@@ -17,7 +17,7 @@
   - [📄 Slides / PDF (EN)](#slides-pdf-en)
   - [🎥 Vidéos](#videos)
   - [🧰 Tools](#tools)
-  - [🔍 Other Sources](#other-sources)
+  - [🔍 Autre Sources](#autre-sources)
     
 - [🕵️‍♂️ OSINT Communauté](#osint-communaute)
   - [🇫🇷 Communautés FR](#communautes-fr)
@@ -125,7 +125,7 @@
 ---
 <br>
 
-<a id="other-sources"></a>
+<a id="autre-sources"></a>
 ## 🔍 Autres Sources
 - [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
 - [OSINT - Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05)
