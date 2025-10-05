@@ -55,7 +55,6 @@
 <a id="methodes"></a>
 ## 🧭 Méthodes
 - [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
-- [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
 - [Comprendre l’OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces)
 - [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
@@ -76,7 +75,8 @@
 <br>
 
 <a id="slides-pdf-fr"></a>
-## 🖼️ Slides / PDF (FR)
+## 🖼️ Slides / PDF
+- [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
 - [Diaporama OSINT - ENSIB](https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf)
 - [Security Intelligence Handbook (Fr)](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf)
 - [Formation OSINT - Tzkuat](https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf)
