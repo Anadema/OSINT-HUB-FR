@@ -57,7 +57,6 @@
 ## 🧭 Méthodes
 - [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
 - [Guide OSINT (2019)](https://maynier.eu/blog/2019/01/05/2019-osint-guide/)
-- 
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
 - [Comprendre l’OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces)
 - [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
@@ -247,9 +246,6 @@
 - [Social Media Research](https://learn.totem-project.org/courses/course-v1:Totem+TP_SMR_EN+001/about)
 - [Dark Web Foundations](https://www.darkwebacademy.com/courses/dark-web-foundations)
 - [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course)
-
-
-
 
 ---
 <br>
