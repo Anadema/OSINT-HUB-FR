@@ -229,6 +229,7 @@
 
 
 ---
+
 <br>
 <a id="osint-formations"></a>
 # 🕵️‍♂️ OSINT Formations
