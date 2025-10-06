@@ -120,7 +120,7 @@
 - [OSINT Framework](https://osintframework.com/)
 - [osint-/-threat-intelligence-tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
 - [OSINT SH](https://osint.sh/)
-- [Digital protection guides comparison]([https://osint.sh/](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083))
+- [Digital protection guides comparison](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083)
 - [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api)
 - [Intel Techniques Tools](https://inteltechniques.com/tools/index.html)
 - [Sherlock OSINT Tool](https://github.com/sherlock-project/sherlock)
