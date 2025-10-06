@@ -166,7 +166,7 @@
   Serveur francophone dédié à l’OSINT, à la cyberdéfense et à la veille technique.  
   Tutos, bots, discussions éthiques sont parmi les usages fréquemment cités.
 
-- **[LeakWeb (Discord)](https://discord.gg/h5kRYEZKy2)** 🟠 **Peu actif**  
+- **[LeakWeb (Discord)](https://disboard.org/fr/server/1371773770741583872)** 🟠 **Peu actif**  
   Communauté axée sur le partage de leaks, l’exposition de données publiques et l’OSINT technique.  
   Intéressant pour les analystes cherchant des ressources “dures” et des techniques avancées.
 
