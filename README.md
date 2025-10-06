@@ -21,7 +21,7 @@
   - [🔍 Autre Sources](#autre-sources)
     
 - [🕵️‍♂️ OSINT Communauté](#osint-communaute)
-  - [🇫🇷 Communautés FR](#communautes-fr)
+  - [🇫🇷  Communautés FR](#communautes-fr)
   - [🌍 Communautés EN](#communautes-en)
     
 - [🕵️‍♂️ OSINT Formations](#osint-formations)
