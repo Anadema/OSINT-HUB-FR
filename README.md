@@ -1,4 +1,4 @@
-# 🧠 OSINT GLOBAL HUB (FR / EN)
+# 🧠 OSINT GLOBAL (FR / EN)
 <br><br>
 
 <p align="center">
