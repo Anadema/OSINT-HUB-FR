@@ -48,13 +48,16 @@
 - [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
 - [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
-
+- [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/)
+- [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index)
 ---
 <br>
 
 <a id="methodes"></a>
 ## 🧭 Méthodes
 - [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
+- [Guide OSINT (2019)](https://maynier.eu/blog/2019/01/05/2019-osint-guide/)
+- 
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
 - [Comprendre l’OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces)
 - [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
@@ -106,12 +109,18 @@
 
 <a id="tools"></a>
 ## 🧰 Tools
+- [Outils OSINT FR](https://osintfr.com/outils/)
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
-- [500 Outils OSINT](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
+- [OCCRP/Database](https://id.occrp.org/databases/)
+- [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
+- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
+- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
+- [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
 - [Awesome OSINT (GitHub)](https://github.com/jivoi/awesome-osint)
 - [OSINT Framework](https://osintframework.com/)
-- [Outils OSINT FR](https://osintfr.com/outils/)
+- [osint-/-threat-intelligence-tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
 - [OSINT SH](https://osint.sh/)
+- [Digital protection guides comparison]([https://osint.sh/](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083))
 - [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api)
 - [Intel Techniques Tools](https://inteltechniques.com/tools/index.html)
 - [Sherlock OSINT Tool](https://github.com/sherlock-project/sherlock)
@@ -121,6 +130,9 @@
 - [Based Re](https://bf.based.re/)
 - [Archive youtube](https://preservetube.com/)
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
+- [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html)
+- [Zoomeye](https://www.zoomeye.ai/)
+- 
 
 ---
 <br>
@@ -313,8 +325,9 @@
 <a id="plateformes"></a>
 ## 🧩 Plateformes
 - [OSINT Industries](https://www.osint.industries/)
+- [Itnelowlprojet](https://intelowlproject.github.io/)
 - [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
-- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)
+- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)https://intelowlproject.github.io/
   
 ---
 <br>
