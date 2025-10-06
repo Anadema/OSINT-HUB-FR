@@ -131,7 +131,6 @@
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
 - [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html)
 - [Zoomeye](https://www.zoomeye.ai/)
-- 
 
 ---
 <br>
