@@ -250,7 +250,7 @@
 <br>
 
 <a id="formations--certifications-payantes"></a>
-## 💼 Formations / certifications payantes
+## 💼 Formations payantes
 - [Zsecurity](https://zsecurity.org/cosintp/)
 - [Greydynamics](https://greydynamics.com/intelligence-school/)
 - [Openfacto](https://openfacto.fr/)
