@@ -111,10 +111,6 @@
 - [Outils OSINT FR](https://osintfr.com/outils/)
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
 - [OCCRP/Database](https://id.occrp.org/databases/)
-- [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
-- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
-- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
-- [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
 - [Awesome OSINT (GitHub)](https://github.com/jivoi/awesome-osint)
 - [OSINT Framework](https://osintframework.com/)
 - [osint-/-threat-intelligence-tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
@@ -131,6 +127,10 @@
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
 - [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html)
 - [Zoomeye](https://www.zoomeye.ai/)
+- [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
+- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
+- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
+- [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
 
 ---
 <br>
