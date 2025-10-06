@@ -17,6 +17,7 @@
   - [📄 Slides / PDF (EN)](#slides-pdf-en)
   - [🎥 Vidéos](#videos)
   - [🧰 Tools](#tools)
+  - [🧩 Plateformes](#plateformes)
   - [🔍 Autre Sources](#autre-sources)
     
 - [🕵️‍♂️ OSINT Communauté](#osint-communaute)
@@ -131,6 +132,16 @@
 - [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
 - [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
 - [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
+
+---
+<br>
+
+<a id="plateformes"></a>
+## 🧩 Plateformes
+- [OSINT Industries](https://www.osint.industries/)
+- [Itnelowlprojet](https://intelowlproject.github.io/)
+- [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
+- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)https://intelowlproject.github.io/
 
 ---
 <br>
@@ -313,17 +324,6 @@
   Challenges ponctuels organisés par Maveris, NahamCon, etc.  
   Activité non régulière mais write-ups très utiles pour s’entraîner sur des cas réels.
 
-
----
-<br>
-
-<a id="plateformes"></a>
-## 🧩 Plateformes
-- [OSINT Industries](https://www.osint.industries/)
-- [Itnelowlprojet](https://intelowlproject.github.io/)
-- [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
-- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)https://intelowlproject.github.io/
-  
 ---
 <br>
 
