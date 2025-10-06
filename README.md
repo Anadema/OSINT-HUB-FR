@@ -113,7 +113,7 @@
 - [OCCRP/Database](https://id.occrp.org/databases/)
 - [Awesome OSINT - GitHub](https://github.com/jivoi/awesome-osint)
 - [OSINT Framework](https://osintframework.com/)
-- [osint-/-threat-intelligence-tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
+- [Osint / Threat intelligence tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
 - [OSINT SH](https://osint.sh/)
 - [Digital protection guides comparison](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083)
 - [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api)
