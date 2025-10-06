@@ -141,7 +141,7 @@
 - [OSINT Industries](https://www.osint.industries/)
 - [Itnelowlprojet](https://intelowlproject.github.io/)
 - [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
-- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)https://intelowlproject.github.io/
+- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)
 
 ---
 <br>
