@@ -230,10 +230,9 @@
 
 ---
 
-<br>
 <a id="osint-formations"></a>
 # 🕵️‍♂️ OSINT Formations
-<br><br>
+<br>
 
 <a id="formations-gratuites"></a>
 ## 🎓 Formations gratuites
