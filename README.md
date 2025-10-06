@@ -1,4 +1,4 @@
-# 🧠 OSINT DATABASE <br> (France / International)
+# 🧠 OSINT GLOBAL HUB (FR / EN)
 <br><br>
 
 <p align="center">
