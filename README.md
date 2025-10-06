@@ -244,6 +244,7 @@
 
 <a id="formations--certifications-payantes"></a>
 ## 💼 Formations / certifications payantes
+- [Zsecurity](https://zsecurity.org/cosintp/)
 - [Greydynamics](https://greydynamics.com/intelligence-school/)
 - [Openfacto](https://openfacto.fr/)
 - [CSI](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/)
