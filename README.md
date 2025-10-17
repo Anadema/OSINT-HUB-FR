@@ -53,6 +53,8 @@
 - [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
 - [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/)
 - [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index)
+- [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
+- 
 ---
 <br>
 
