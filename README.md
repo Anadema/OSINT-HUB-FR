@@ -111,6 +111,8 @@
 <a id="tools"></a>
 ## 🧰 Tools
 - [Outils OSINT FR](https://osintfr.com/outils/)
+- [Osint tool](https://osint.tools/)
+- [Osint combine](https://www.osintcombine.com/tools)
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
 - [OCCRP/Database](https://id.occrp.org/databases/)
 - [Awesome OSINT - GitHub](https://github.com/jivoi/awesome-osint)
@@ -248,6 +250,7 @@
 
 <a id="formations-gratuites"></a>
 ## 🎓 Formations gratuites
+- [Osint4fun](https://www.osint4fun.eu/challenges/)
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
 - [Introduction to OSINT](https://www.securityblue.team/courses/introduction-to-osint)
 - [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/osint-fundamentals)
@@ -298,8 +301,10 @@
 - **[PredictaLab CTF](https://ctf.predictalab.fr/)** 🔴 **À vérifier**  
   Plateforme française qui a hébergé des CTF et exercices OSINT à vocation pédagogique.  
   Le site reste en ligne, mais l’activité semble irrégulière ces derniers mois.
-  
 
+- **[Oscar Zulu](https://osint.oscarzulu.org)** 🟢 **Actif**  
+  Plateforme d’OSINT proposant des challenges / enquêtes numériques (CTF) pour exercer ses compétences en recherche d’informations ouvertes.
+  Permet à la fois de s’inscrire, de s’authentifier, de progresser dans un scoreboard, et de participer à des investigations très variées, dans différents langues.
 ---
 
 <a id="challenges-en"></a>
