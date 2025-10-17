@@ -47,6 +47,7 @@
 ## ✍️ Articles
 - [Fiche métier FR](https://guardia.school/metiers/osint-analyst.html)
 - [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
+- [The ultimate OSINT Career guide](https://preciousvincentct.medium.com/the-ultimate-guide-to-launching-a-career-in-open-source-intelligence-osint-from-beginner-to-0b3dd09ec88f)
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
 - [Dutchosintguy](https://www.dutchosintguy.com/post/beyond-dashboards-osint-s-next-two-decades)
 - [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
@@ -99,8 +100,9 @@
 <br>
 
 <a id="videos"></a>
-## 🎥 Vidéos
-- [OSINT ANALYST : missions, salaire, compétences et formations](https://www.youtube.com/watch?v=gZXZmHRxDWk)
+## 🎥 Vidéos & Podcast
+- [Osintcurio](https://www.osintcurio.us/osintvideosandpodcasts/index.htm) 
+- [OSINT ANALYST : missions, salaire, compétences et formations](https://www.youtube.com/watch?v=gZXZmHRxDWk) 
 - [Introduction à l’OSINT : maîtrisez l'art de l'investigation en ligne](https://www.youtube.com/watch?v=GameXsraN8Y)
 - [OSINT : dans la peau d'un hacker](https://www.youtube.com/watch?v=jP47EQGpOY8)
 - [Top 10 des Outils OSINT GRATUITS Pour 2025 (Effrayant)](https://www.youtube.com/watch?v=qz5lSFS4BYY)
@@ -111,6 +113,7 @@
 <a id="tools"></a>
 ## 🧰 Tools
 - [Outils OSINT FR](https://osintfr.com/outils/)
+- [OSINT Tools matrix](https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0)
 - [Osint tool](https://osint.tools/)
 - [Osint combine](https://www.osintcombine.com/tools)
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
@@ -135,7 +138,11 @@
 - [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
 - [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
 - [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
-
+- [Dehashed](https://dehashed.com/data-wells)
+- [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme)
+- [liveuamap](https://liveuamap.com/)
+- [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1)
+  
 ---
 <br>
 
@@ -355,7 +362,6 @@ Voici une liste d’entreprises françaises dont l’OSINT est le cœur d’acti
 - **Sopra Steria (France)** – Cybersécurité, analyse de menace & renseignement. [Site officiel](https://www.soprasteria.com)  
 - **Vélite (Paris)** – Intelligence économique, investigations corporate, OSINT. [Site officiel](https://www.cabinet-velite.com/cabinet/)  
 - **Sahar (Paris)** – Cabinet d’analyse, veille stratégique et OSINT institutionnel. [Site officiel](https://www.sahar.fr)
-
 ---
 <br>
 
