@@ -2,9 +2,7 @@
 <br><br>
 
 <p align="center">
-  <div style="border:5px solid white; display:inline-block; padding:2px; background-color:black;">
-    <img src="picture/OSINT-HUB-FR.jpg" alt="OSINT Image" width="750">
-  </div>
+  <img src="picture/OSINT-HUB-FR.jpg" width="754" style="background-color:black; padding:2px;">
 </p>
 <br><br>
 
