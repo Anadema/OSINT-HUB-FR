@@ -2,7 +2,7 @@
 <br><br>
 
 <p align="center">
-  <img src="picture/osint-logo.jpg" alt="OSINT Image" width="550">
+  <img src="picture/OSINT-HUB-FR.jpg" alt="OSINT Image" width="550">
 </p>
 <br><br>
 
