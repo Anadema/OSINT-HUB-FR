@@ -1,4 +1,4 @@
-# 🧠 OSINT HUB FR
+# 🕵️‍♂️ OSINT HUB FR 🕵️‍♂️
 <br><br>
 
 <p align="center">
@@ -46,7 +46,7 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 <br>
 
 <a id="osint-ressources"></a>
-# 🕵️‍♂️ OSINT Ressources
+# 🧠 OSINT Ressources
 <br>
 
 <a id="articles"></a>
