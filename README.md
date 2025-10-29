@@ -4,6 +4,12 @@
 <p align="center">
   <img src="picture/osint-logo.jpg" alt="OSINT Image" width="550">
 </p>
+<br><br>
+
+<p>
+Ce projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière progressive et pédagogique.
+</p>
+
 
 <br><br>
 
