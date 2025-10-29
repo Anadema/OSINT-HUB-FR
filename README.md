@@ -1,4 +1,4 @@
-# 🕵️‍♂️ OSINT HUB FR 
+# 🕵️‍♂️ OSINT-HUB-FR 
 <br><br>
 
 <p align="center">
