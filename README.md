@@ -11,7 +11,7 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens√
 </p>
 
 <p align="center">
-<img src="image/hermes.jpg" alt="Logo Bone Flag" width="200" height="auto"><br>
+<img src="picture/hermes.jpg" alt="Logo Bone Flag" width="200" height="auto"><br>
 <i>Hermes</i>
 </p>
 
