@@ -10,6 +10,10 @@
 Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.
 </p>
 
+<p align="center">
+<img src="image/hermes.jpg" alt="Logo Bone Flag" width="200" height="auto">
+Hermes
+</p>
 
 <br><br>
 
