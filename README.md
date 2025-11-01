@@ -11,11 +11,6 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 </p>
 <br><br>
 
-<p align="center">
-<img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-<i>Hermes</i>
-</p>
-
 <br><br>
 
 ## 📑 Table des matières
@@ -407,13 +402,11 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 ---
 <br>
 
-<a id="bonus"></a>
-## 🎖️ Bonus
-- **DRPP** [Site officiel](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://choisirleservicepublic.gouv.fr/offre-emploi/drpp---enqueteur-en-sources-ouvertes----osint-hf-hf-reference-MINT_BA075PNB-110202/&ved=2ahUKEwilsoPmtYqQAxWzRqQEHQ1IOHQQFnoECBoQAw&usg=AOvVaw0D1qFPQwZcqLewUYmEwp-9)
-- **TRACFIN** [Site officiel](https://choisirleservicepublic.gouv.fr/offre-emploi/tracfin---analyste--lutte-contre-les-ingerences-etrangeres--hf-reference-MEF_2025-24501/)
-- **DGSI** [Site officiel](https://www.dgsi.interieur.gouv.fr/travailler-a-dgsi/candidater)
-- **DRM** [Site officiel](https://www.defense.gouv.fr/drm/rejoignez-nous/recrutement-civils)
-- **DGSE** [Site officiel](https://www.dgse.gouv.fr/fr/le-recrutement/nous-rejoindre)
+<p align="center">
+<img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
+<i>Hermes</i>
+</p>
+
 
 <br><br>
 
