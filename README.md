@@ -400,13 +400,6 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 - **Glassdoor** [Site officiel](https://www.glassdoor.fr/Emploi/osint-emplois-SRCH_KO0,5.htm)
 
 ---
-<br>
-
-<p align="center">
-<img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-<b>HERMES</b>
-</p>
-
 
 <br><br>
 <a id="bonus"></a>
@@ -417,6 +410,12 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 ![OSINT Image](picture/osint_picture.jpg)
 Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
 ---
+<br><br>
+
+<p align="center">
+<img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
+<b>HERMES</b>
+</p>
 
 > 📌 *Dernière mise à jour : Octobre 2025*  
 > _Contributions bienvenues via Pull Request._
