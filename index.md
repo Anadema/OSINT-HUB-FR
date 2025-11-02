@@ -504,9 +504,10 @@
     </p>
 
     <br><br>
-
+    <h2>MAP OSINT</h2>
+    
     <img src="picture/osint_picture.jpg" alt="OSINT Image" class="center-img">
-
+    Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
     <hr>
 
     <blockquote>
