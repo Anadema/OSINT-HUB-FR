@@ -496,12 +496,6 @@
         <li><strong>Glassdoor</strong> <a href="https://www.glassdoor.fr/Emploi/osint-emplois-SRCH_KO0,5.htm">Site officiel</a></li>
     </ul>
     <hr>
-    <br>
-
-    <p class="center-img">
-        <img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-        <b>HERMES</b>
-    </p>
 
     <br><br>
     <a id="bonus"></a>
@@ -512,6 +506,13 @@
     <img src="picture/osint_picture.jpg" alt="OSINT Image" class="center-img">
     Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
     <hr>
+
+    <br><br>
+
+    <p align="center">
+    <img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
+    <b>HERMES</b>
+    </p>
 
     <blockquote>
         📌 <em>Dernière mise à jour : Octobre 2025</em><br>
