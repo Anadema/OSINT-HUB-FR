@@ -504,6 +504,9 @@
     </p>
 
     <br><br>
+    <a id="bonus"></a>
+    <h1>🎖️ Bonus</h1>
+
     <h2>MAP OSINT</h2>
     
     <img src="picture/osint_picture.jpg" alt="OSINT Image" class="center-img">
