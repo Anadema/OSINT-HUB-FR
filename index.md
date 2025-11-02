@@ -500,7 +500,7 @@
 
     <p class="center-img">
         <img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-        <em>Hermes</em>
+        <b>HERMES</b>
     </p>
 
     <br><br>
