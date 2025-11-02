@@ -404,14 +404,15 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 
 <p align="center">
 <img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-<i>Hermes</i>
+<b>HERMES</b>
 </p>
 
 
 <br><br>
+# OSINT MAP
 
 ![OSINT Image](picture/osint_picture.jpg)
-
+Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
 ---
 
 > 📌 *Dernière mise à jour : Octobre 2025*  
