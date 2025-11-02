@@ -60,8 +60,7 @@
     </style>
 </head>
 <body>
-    <h1 class="emoji">🕵️‍♂️ OSINT-HUB-FR</h1>
-    <br><br>
+
 
     <p class="center-img">
         <img src="picture/OSINT-HUB-FR.jpg" width="754" style="background-color:black; padding:2px;">
