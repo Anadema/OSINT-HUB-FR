@@ -409,7 +409,9 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 
 
 <br><br>
-# OSINT MAP
+# 🎖️ Bonus
+
+## OSINT MAP
 
 ![OSINT Image](picture/osint_picture.jpg)
 Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
