@@ -1,3 +1,13 @@
+body {
+    background-color: #000000; /* Noir pur */
+    color: #ffffff; /* Texte blanc pour contraster (ajuste si besoin) */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Optionnel : police basique */
+}
+
+<body>
+
 # 🕵️‍♂️ OSINT-HUB-FR 
 <br><br>
 
@@ -416,3 +426,4 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 
 > 📌 *Dernière mise à jour : Octobre 2025*  
 > _Contributions bienvenues via Pull Request._
+</body>
