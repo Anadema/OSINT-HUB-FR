@@ -135,7 +135,7 @@
 ## ⭐ Osinter
 - [Maxim M. / bormaxi8080](https://github.com/bormaxi8080)
 - [Xiè Jí'ān Jieyab 谢吉 / Jieyab89](https://github.com/Jieyab89)
-- 
+- ...
 
 ---
 <br>
