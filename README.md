@@ -414,7 +414,7 @@ Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
 
 # Licence
 
-Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
+OSINT-HUB-FR has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
 
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
 All documents are avalaible in open source access:<br><br>
@@ -423,7 +423,7 @@ All documents are avalaible in open source access:<br><br>
 
 <p align="center">
 <img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-<b>HERMES</b>
+<b>HELIOS</b>
 </p>
 
 > 📌 *Dernière mise à jour : Octobre 2025*  
