@@ -57,12 +57,13 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 - [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
 - [The ultimate OSINT Career guide](https://preciousvincentct.medium.com/the-ultimate-guide-to-launching-a-career-in-open-source-intelligence-osint-from-beginner-to-0b3dd09ec88f)
 - [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
+- [Bormaxi8080](https://github.com/bormaxi8080/osint-timeline/tree/main)
 - [Dutchosintguy](https://www.dutchosintguy.com/post/beyond-dashboards-osint-s-next-two-decades)
 - [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
 - [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/)
 - [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index)
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
-- [bormaxi8080](https://github.com/bormaxi8080/osint-timeline/tree/main)
+- [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)
   
 ---
 <br>
@@ -141,6 +142,7 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 - [OSINT Framework](https://osintframework.com/)
 - [Osint / Threat intelligence tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
 - [OSINT SH](https://osint.sh/)
+- [Spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Digital protection guides comparison](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083)
 - [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api)
 - [Intel Techniques Tools](https://inteltechniques.com/tools/index.html)
@@ -406,6 +408,7 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 - **OSINT Industries (UK)** – Plateforme de renseignement en temps réel pour les secteurs gouvernementaux et privés. [Site officiel](https://www.internationalsecurityexpo.com/exhibitors/osint-industries)  
 - **Farallon, LLC (USA)** – Investigations et analyse OSINT multi-sources, due diligence, monitoring réputationnel. [Site officiel](https://farallon.io/)  
 - **TextOre** – Analyse stratégique et géopolitique, opérations d’influence, veille multilingue. [Site officiel](https://www.textore.net/about/)
+- **OSINT SA** – Expertise en renseignement stratégique, analyse OSINT, cybersécurité et veille informationnelle. [Site officiel](https://www.osint.sa/)
 
 ---
 <br>
