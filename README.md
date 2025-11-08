@@ -7,7 +7,8 @@
 <br><br>
 
 <p>
-Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.
+Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.<br><br>
+The OSINT-HUB-FR project is a resource designed for students and beginners: it brings together tools, methods, and step-by-step guides in French (and sometimes in English) to learn how to collect, analyze, and verify publicly accessible information, all in an ethical, progressive, and educational manner.
 </p>
 <br><br>
 
