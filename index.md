@@ -68,7 +68,13 @@
     <br><br>
 
     <p>
-        Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.
+        🇫🇷 Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.<br><br>
+        
+        🇬🇧 The OSINT-HUB-FR project is a resource designed for students and beginners: it brings together tools, methods, and step-by-step guides in French (and sometimes in English) to learn how to collect, analyze, and verify publicly accessible information, all in an ethical, progressive, and educational manner.<br><br>
+
+        🇷🇺 Проект OSINT-HUB-FR — это ресурс, предназначенный для студентов и начинающих: он объединяет инструменты, методы и пошаговые руководства на французском (а иногда и на английском) языках, чтобы научить собирать, анализировать и проверять общедоступную информацию, все это — этично, постепенно и педагогически.<br><br>
+
+        🇮🇳 यह परियोजना छात्रों और शुरुआती लोगों के लिए एक संसाधन है: इसमें उपकरण, विधियाँ और कदम दर कदम मार्गदर्शिकाएँ (कभी-कभी अंग्रेजी में भी) एकत्र की गई हैं, जो सार्वजनिक रूप से उपलब्ध जानकारी एकत्रित करने, विश्लेषण करने और सत्यापित करने के लिए सिखाती हैं, और यह सब नैतिक, क्रमिक और शैक्षिक तरीके से किया जाता है।
     </p>
     <br><br>
     <br><br>
@@ -84,14 +90,16 @@
                 <li><a href="#slides-pdf-fr">🖼️ Slides / PDF (FR)</a></li>
                 <li><a href="#slides-pdf-en">📄 Slides / PDF (EN)</a></li>
                 <li><a href="#videos">🎥 Vidéos</a></li>
-                <li><a href="#tools">🧰 Tools</a></li>
+                <li><a href="#osinter">⭐ Osinter</a></li>
+                <li><a href="#tools">🔧 Tools</a></li>
+                <li><a href="#boards">🧰 Boards</a></li>
                 <li><a href="#plateformes">🧩 Plateformes</a></li>
                 <li><a href="#autre-sources">🔍 Autre Sources</a></li>
             </ul>
         </li>
         <li><a href="#osint-communaute"><span class="emoji">🕵️‍♂️</span> OSINT Communauté</a>
             <ul>
-                <li><a href="#communautes-fr">🇫🇷 Communautés FR</a></li>
+                <li><a href="#communautes-fr">🇫🇷  Communautés FR</a></li>
                 <li><a href="#communautes-en">🌍 Communautés EN</a></li>
             </ul>
         </li>
@@ -127,11 +135,13 @@
         <li><a href="https://www.wgu.edu/career-guide/information-technology/osint-career.html">Fiche métier EN</a></li>
         <li><a href="https://preciousvincentct.medium.com/the-ultimate-guide-to-launching-a-career-in-open-source-intelligence-osint-from-beginner-to-0b3dd09ec88f">The ultimate OSINT Career guide</a></li>
         <li><a href="https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927">The Six Pillars of OSINT</a></li>
+        <li><a href="https://github.com/bormaxi8080/osint-timeline/tree/main">Bormaxi8080</a></li>
         <li><a href="https://www.dutchosintguy.com/post/beyond-dashboards-osint-s-next-two-decades">Dutchosintguy</a></li>
         <li><a href="https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/">Géolocaliser une image</a></li>
         <li><a href="https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/">Acceder au information publique FR</a></li>
         <li><a href="https://wiki.nothing2hide.org/doku.php?id=start&do=index">Nothing2hide/osint</a></li>
         <li><a href="https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc">Maltego tuto</a></li>
+        <li><a href="https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d">Osint Linkedin</a></li>
     </ul>
     <hr>
     <br>
@@ -195,8 +205,17 @@
     <hr>
     <br>
 
+    <a id="osinter"></a>
+    <h2>⭐ Osinter</h2>
+    <ul>
+        <li><a href="https://github.com/bormaxi8080">Maxim M. / bormaxi8080</a></li>
+        <li>...</li>
+    </ul>
+    <hr>
+    <br>
+
     <a id="tools"></a>
-    <h2>🧰 Tools</h2>
+    <h2>🔧 Tools</h2>
     <ul>
         <li><a href="https://osintfr.com/outils/">Outils OSINT FR</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0">OSINT Tools matrix</a></li>
@@ -208,6 +227,7 @@
         <li><a href="https://osintframework.com/">OSINT Framework</a></li>
         <li><a href="https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/">Osint / Threat intelligence tool/</a></li>
         <li><a href="https://osint.sh/">OSINT SH</a></li>
+        <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083">Digital protection guides comparison</a></li>
         <li><a href="https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api">Open Source Surveillance API</a></li>
         <li><a href="https://inteltechniques.com/tools/index.html">Intel Techniques Tools</a></li>
@@ -220,14 +240,22 @@
         <li><a href="https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html">Spatial</a></li>
         <li><a href="https://kit.exposingtheinvisible.org/fr/thekit.html">Le kit</a></li>
         <li><a href="https://www.zoomeye.ai/">Zoomeye</a></li>
-        <li><a href="https://start.me/p/L1rEYQ/osint4all">Osint4all - Start.me</a></li>
-        <li><a href="https://start.me/p/7krOpx/toolbox">Toolbox - Start.me</a></li>
-        <li><a href="https://start.me/p/19k4MD/darkint">Darkint - Start.me</a></li>
         <li><a href="https://start.me/p/0Pqbdg/osint-500-tools?locale=fr">500 Outils OSINT - Start.me</a></li>
         <li><a href="https://dehashed.com/data-wells">Dehashed</a></li>
         <li><a href="https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme">Chromewebstore</a></li>
         <li><a href="https://liveuamap.com/">liveuamap</a></li>
         <li><a href="https://manhole.co.il/coversMap.asp?sr=all%3D1">Manhole</a></li>
+    </ul>
+    <hr>
+    <br>
+
+    <a id="boards"></a>
+    <h2>🧰 Boards</h2>
+    <ul>
+        <li><a href="https://start.me/p/L1rEYQ/osint4all">Osint4all - Start.me</a></li>
+        <li><a href="https://start.me/p/7krOpx/toolbox">Toolbox - Start.me</a></li>
+        <li><a href="https://start.me/p/19k4MD/darkint">Darkint - Start.me</a></li>
+        <li><a href="https://start.me/p/nRz81L/osintech-links-board">Bormaxi8080 - Start.me</a></li>
     </ul>
     <hr>
     <br>
@@ -366,7 +394,7 @@
     <br>
 
     <a id="formations--certifications-payantes"></a>
-    <h2>💼 Formations payantes</h2>
+    <h2>💼 Formations / certifications payantes</h2>
     <ul>
         <li><a href="https://zsecurity.org/cosintp/">Zsecurity</a></li>
         <li><a href="https://greydynamics.com/intelligence-school/">Greydynamics</a></li>
@@ -411,6 +439,7 @@
         </li>
     </ul>
     <hr>
+    <br>
 
     <a id="challenges-en"></a>
     <h2>🕹️ Challenges EN</h2>
@@ -483,6 +512,7 @@
         <li><strong>OSINT Industries (UK)</strong> – Plateforme de renseignement en temps réel pour les secteurs gouvernementaux et privés. <a href="https://www.internationalsecurityexpo.com/exhibitors/osint-industries">Site officiel</a></li>
         <li><strong>Farallon, LLC (USA)</strong> – Investigations et analyse OSINT multi-sources, due diligence, monitoring réputationnel. <a href="https://farallon.io/">Site officiel</a></li>
         <li><strong>TextOre</strong> – Analyse stratégique et géopolitique, opérations d’influence, veille multilingue. <a href="https://www.textore.net/about/">Site officiel</a></li>
+        <li><strong>OSINT SA</strong> – Expertise en renseignement stratégique, analyse OSINT, cybersécurité et veille informationnelle. <a href="https://www.osint.sa/">Site officiel</a></li>
     </ul>
     <hr>
     <br>
@@ -501,17 +531,17 @@
     <a id="bonus"></a>
     <h1>🎖️ Bonus</h1>
 
-    <h2>MAP OSINT</h2>
+    <h2>OSINT MAP</h2>
     
     <img src="picture/osint_picture.jpg" alt="OSINT Image" class="center-img">
-    Source : <a href="https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg">github.com/SocialLinks-IO/assets</a>
+    Source : <a href="https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg">https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg</a>
     <hr>
 
     <br><br>
 
-    <h2>LICENCE</h2>
+    <h2>Licence</h2>
 
-    Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
+    OSINT-HUB-FR has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
 
     You can use it for research and training purposes; however, commercialization is not authorized.<br>
     All documents are avalaible in open source access:<br><br>
@@ -520,7 +550,7 @@
 
     <p align="center">
     <img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
-    <b>HERMES</b>
+    <b>HELIOS</b>
     </p>
 
     <blockquote>
