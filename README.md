@@ -7,8 +7,9 @@
 <br><br>
 
 <p>
-Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.<br><br>
-The OSINT-HUB-FR project is a resource designed for students and beginners: it brings together tools, methods, and step-by-step guides in French (and sometimes in English) to learn how to collect, analyze, and verify publicly accessible information, all in an ethical, progressive, and educational manner.
+🇫🇷 Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pensée pour les <strong>étudiants</strong> et les <strong>débutants</strong> : il rassemble des <strong>outils</strong>, des <strong>méthodes</strong> et des <strong>guides pas à pas</strong> en français et parfois en anglais pour apprendre à collecter, analyser et vérifier des informations accessibles publiquement, le tout de manière <strong>éthique, progressive et pédagogique</strong>.<br><br>
+🇬🇧 The OSINT-HUB-FR project is a resource designed for students and beginners: it brings together tools, methods, and step-by-step guides in French (and sometimes in English) to learn how to collect, analyze, and verify publicly accessible information, all in an ethical, progressive, and educational manner.
+🇮🇳 यह परियोजना छात्रों और शुरुआती लोगों के लिए एक संसाधन है: इसमें उपकरण, विधियाँ और कदम दर कदम मार्गदर्शिकाएँ (कभी-कभी अंग्रेजी में भी) एकत्र की गई हैं, जो सार्वजनिक रूप से उपलब्ध जानकारी एकत्रित करने, विश्लेषण करने और सत्यापित करने के लिए सिखाती हैं, और यह सब नैतिक, क्रमिक और शैक्षिक तरीके से किया जाता है।
 </p>
 <br><br>
 
