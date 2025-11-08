@@ -30,6 +30,7 @@
   - [📄 Slides / PDF (EN)](#slides-pdf-en)
   - [🎥 Vidéos](#videos)
   - [⭐ Osinter](#osinter)
+  - [🙏 Bible ](#bible)
   - [🔧 Tools](#tools)
   - [🧰 Boards](#boards)
   - [🧩 Plateformes](#plateformes)
@@ -70,6 +71,7 @@
 - [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/)
 - [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index)
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
+- [Osint tool](https://osint.tools/)
 - [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)
   
 ---
@@ -132,7 +134,15 @@
 <a id="osinter"></a>
 ## ⭐ Osinter
 - [Maxim M. / bormaxi8080](https://github.com/bormaxi8080)
-- ...
+- [Xiè Jí'ān Jieyab 谢吉 / Jieyab89](https://github.com/Jieyab89)
+- 
+
+---
+<br>
+
+<a id="bible"></a>
+## ⭐ Bible
+https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips
 
 ---
 <br>
@@ -141,7 +151,7 @@
 ## 🔧 Tools
 - [Outils OSINT FR](https://osintfr.com/outils/)
 - [OSINT Tools matrix](https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0)
-- [Osint tool](https://osint.tools/)
+- [Osint tool]([https://osint.tools/](https://github.com/topics/osint-tools))
 - [Osint combine](https://www.osintcombine.com/tools)
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
 - [OCCRP/Database](https://id.occrp.org/databases/)
