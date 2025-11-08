@@ -22,7 +22,9 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
   - [🖼️ Slides / PDF (FR)](#slides-pdf-fr)
   - [📄 Slides / PDF (EN)](#slides-pdf-en)
   - [🎥 Vidéos](#videos)
-  - [🧰 Tools](#tools)
+  - [⭐ Osinter](#osinter)
+  - [🔧 Tools](#tools)
+  - [🧰 Boards](#boards)
   - [🧩 Plateformes](#plateformes)
   - [🔍 Autre Sources](#autre-sources)
     
@@ -60,6 +62,7 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 - [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/)
 - [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index)
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
+- [bormaxi8080](https://github.com/bormaxi8080/osint-timeline/tree/main)
   
 ---
 <br>
@@ -118,8 +121,16 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 ---
 <br>
 
+<a id="osinter"></a>
+## ⭐ Osinter
+- [Maxim M. / bormaxi8080](https://github.com/bormaxi8080)
+- ...
+
+---
+<br>
+
 <a id="tools"></a>
-## 🧰 Tools
+## 🔧 Tools
 - [Outils OSINT FR](https://osintfr.com/outils/)
 - [OSINT Tools matrix](https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0)
 - [Osint tool](https://osint.tools/)
@@ -142,15 +153,22 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens�
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
 - [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html)
 - [Zoomeye](https://www.zoomeye.ai/)
-- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
-- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
-- [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
 - [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
 - [Dehashed](https://dehashed.com/data-wells)
 - [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme)
 - [liveuamap](https://liveuamap.com/)
 - [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1)
   
+---
+<br>
+
+<a id="boards"></a>
+## 🧰 Boards
+- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
+- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
+- [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
+- [bormaxi8080 - Start.me](https://start.me/p/nRz81L/osintech-links-board)
+
 ---
 <br>
 
