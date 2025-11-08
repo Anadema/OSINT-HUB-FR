@@ -167,7 +167,7 @@ Le projet <strong>OSINT-HUB-FR</strong> est une <strong>ressource</strong> pens√
 - [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
 - [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
 - [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
-- [bormaxi8080 - Start.me](https://start.me/p/nRz81L/osintech-links-board)
+- [Bormaxi8080 - Start.me](https://start.me/p/nRz81L/osintech-links-board)
 
 ---
 <br>
