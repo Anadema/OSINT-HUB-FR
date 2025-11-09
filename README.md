@@ -152,7 +152,7 @@
 ## 🔧 Tools
 - [Outils OSINT FR](https://osintfr.com/outils/)
 - [OSINT Tools matrix](https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0)
-- [Osint tool]([https://osint.tools/](https://github.com/topics/osint-tools))
+- [Osint tool]([https://osint.tools/](https://github.com/topics/osint-tools)
 - [Osint combine](https://www.osintcombine.com/tools)
 - [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
 - [OCCRP/Database](https://id.occrp.org/databases/)
