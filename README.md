@@ -142,7 +142,8 @@
 
 <a id="bible"></a>
 ## ⭐ Bible
-https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips
+- [OSINT-Cheat-sheet/](https://github.com/Jieyab89/OSINT-Cheat-sheet/)
+- [Osint-cheat-sheet-wiki-tips](https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips)
 
 ---
 <br>
