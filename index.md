@@ -83,43 +83,43 @@
     <h2 class="emoji">📑 Table des matières</h2>
 
     <ul>
-        <li><a href="#osint-ressources" target="_blank"><span class="emoji">🕵️‍♂️</span> OSINT Ressources</a>
+        <li><a href="#osint-ressources"><span class="emoji">🕵️‍♂️</span> OSINT Ressources</a>
             <ul>
-                <li><a href="#articles" target="_blank">✍️ Articles</a></li>
-                <li><a href="#methodes" target="_blank">🧭 Méthodes</a></li>
-                <li><a href="#livres-en" target="_blank">📚 Livres (EN)</a></li>
-                <li><a href="#slides-pdf-fr" target="_blank">🖼️ Slides / PDF (FR)</a></li>
-                <li><a href="#slides-pdf-en" target="_blank">📄 Slides / PDF (EN)</a></li>
-                <li><a href="#videos" target="_blank">🎥 Vidéos</a></li>
-                <li><a href="#osinter" target="_blank">⭐ Osinter</a></li>
-                <li><a href="#bible" target="_blank">🙏 Bible </a></li>
-                <li><a href="#tools" target="_blank">🔧 Tools</a></li>
-                <li><a href="#boards" target="_blank">🧰 Boards</a></li>
-                <li><a href="#plateformes" target="_blank">🧩 Plateformes</a></li>
-                <li><a href="#autre-sources" target="_blank">🔍 Autre Sources</a></li>
+                <li><a href="#articles">✍️ Articles</a></li>
+                <li><a href="#methodes">🧭 Méthodes</a></li>
+                <li><a href="#livres-en">📚 Livres (EN)</a></li>
+                <li><a href="#slides-pdf-fr">🖼️ Slides / PDF (FR)</a></li>
+                <li><a href="#slides-pdf-en">📄 Slides / PDF (EN)</a></li>
+                <li><a href="#videos">🎥 Vidéos</a></li>
+                <li><a href="#osinter">⭐ Osinter</a></li>
+                <li><a href="#bible" >🙏 Bible </a></li>
+                <li><a href="#tools">🔧 Tools</a></li>
+                <li><a href="#boards">🧰 Boards</a></li>
+                <li><a href="#plateformes">🧩 Plateformes</a></li>
+                <li><a href="#autre-sources">🔍 Autre Sources</a></li>
             </ul>
         </li>
-        <li><a href="#osint-communaute" target="_blank"><span class="emoji">🕵️‍♂️</span> OSINT Communauté</a>
+        <li><a href="#osint-communaute"><span class="emoji">🕵️‍♂️</span> OSINT Communauté</a>
             <ul>
-                <li><a href="#communautes-fr" target="_blank">🇫🇷  Communautés FR</a></li>
-                <li><a href="#communautes-en" target="_blank">🌍 Communautés EN</a></li>
+                <li><a href="#communautes-fr">🇫🇷  Communautés FR</a></li>
+                <li><a href="#communautes-en">🌍 Communautés EN</a></li>
             </ul>
         </li>
-        <li><a href="#osint-formations" target="_blank"><span class="emoji">🕵️‍♂️</span> OSINT Formations</a>
+        <li><a href="#osint-formations"><span class="emoji">🕵️‍♂️</span> OSINT Formations</a>
             <ul>
-                <li><a href="#formations-gratuites" target="_blank">🎓 Formations gratuites</a></li>
-                <li><a href="#formations--certifications-payantes" target="_blank">💼 Formations / certifications payantes</a></li>
-                <li><a href="#challenges-fr" target="_blank">🕹️ Challenges FR</a></li>
-                <li><a href="#challenges-en" target="_blank">🕹️ Challenges EN</a></li>
-                <li><a href="#plateformes" target="_blank">🧩 Plateformes</a></li>
+                <li><a href="#formations-gratuites">🎓 Formations gratuites</a></li>
+                <li><a href="#formations--certifications-payantes">💼 Formations / certifications payantes</a></li>
+                <li><a href="#challenges-fr">🕹️ Challenges FR</a></li>
+                <li><a href="#challenges-en">🕹️ Challenges EN</a></li>
+                <li><a href="#plateformes">🧩 Plateformes</a></li>
             </ul>
         </li>
-        <li><a href="#osint-jobs" target="_blank"><span class="emoji">🕵️‍♂️</span> OSINT Jobs</a>
+        <li><a href="#osint-jobs"><span class="emoji">🕵️‍♂️</span> OSINT Jobs</a>
             <ul>
-                <li><a href="#entreprises-francaises-specialisees-en-osint" target="_blank">🇫🇷 Entreprises françaises spécialisées en OSINT</a></li>
-                <li><a href="#entreprises-internationales-specialisees-en-osint" target="_blank">🌍 Entreprises internationales spécialisées en OSINT</a></li>
-                <li><a href="#recherche-emploi" target="_blank">🏢 Recherche Emploi</a></li>
-                <li><a href="#bonus" target="_blank">🎖️ Bonus</a></li>
+                <li><a href="#entreprises-francaises-specialisees-en-osint">🇫🇷 Entreprises françaises spécialisées en OSINT</a></li>
+                <li><a href="#entreprises-internationales-specialisees-en-osint">🌍 Entreprises internationales spécialisées en OSINT</a></li>
+                <li><a href="#recherche-emploi">🏢 Recherche Emploi</a></li>
+                <li><a href="#bonus">🎖️ Bonus</a></li>
             </ul>
         </li>
     </ul>
