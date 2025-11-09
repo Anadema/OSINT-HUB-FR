@@ -219,8 +219,9 @@
 
     <a id="bible"></a>
     <h2>🙏 Bible</h2>
-    <ul>
-        <li><a href="https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips" target="_blank">https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips</a></li>
+    <ul>- 
+        <li><a href="https://github.com/Jieyab89/OSINT-Cheat-sheet/" target="_blank">OSINT-Cheat-sheet</a></li>
+        <li><a href="https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips" target="_blank">Osint-cheat-sheet-wiki-tips</a></li>
     </ul>
     <hr>
     <br>
