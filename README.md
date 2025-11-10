@@ -307,7 +307,6 @@
 - [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
 - [Introduction to OSINT](https://www.securityblue.team/courses/introduction-to-osint)
 - [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/osint-fundamentals)
-- [Open-source Intelligence](https://training.kapsuungroup.com/courses/osint-beginners-course)
 - [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini)
 - [CaseFile](https://courses.thecyberinst.org/courses/casefile)
 - [Social Media Research](https://learn.totem-project.org/courses/course-v1:Totem+TP_SMR_EN+001/about)
