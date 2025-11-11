@@ -460,7 +460,7 @@ All documents are avalaible in open source access:<br><br>
 <br><br>
 
 <p align="center">
-<img src="picture/hermes.jpg" alt="Hermes" width="300" height="auto"><br>
+<img src="picture/helios.jpg" alt="Hermes" width="300" height="auto"><br>
 <b>HELIOS</b>
 </p>
 
