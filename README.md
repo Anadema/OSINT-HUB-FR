@@ -133,8 +133,8 @@
 
 <a id="osinter"></a>
 ## ⭐ Osinter
-- [Maxim M. / bormaxi8080](https://github.com/bormaxi8080)
-- [Xiè Jí'ān Jieyab 谢吉 / Jieyab89](https://github.com/Jieyab89)
+- [Maxim M. / bormaxi8080](https://github.com/bormaxi8080) - Expert OSINT contributeur open-source
+- [Xiè Jí'ān Jieyab 谢吉 / Jieyab89](https://github.com/Jieyab89) - Chercheur OSINT créateur ressources
 - ...
 
 ---
@@ -142,8 +142,8 @@
 
 <a id="bible"></a>
 ## 🙏 Bible
-- [OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet/)
-- [Osint-cheat-sheet-wiki-tips](https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips)
+- [OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet/) - Référence rapide outils techniques
+- [Osint-cheat-sheet-wiki-tips](https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips) - Wiki pratique astuces OSINT
 
 ---
 <br>
@@ -181,16 +181,16 @@
 - [ExifTool Online](https://exiftool.pixelpeeper.org/) - Lecteur EXIF données images
 - [YouTube DataViewer](https://www.youtube.com/howyoutubeworks/artists/data-viewer.html) - Extraction métadonnées vidéos
 - [TinEye API](https://www.tineye.com/api) - API recherche inversée d'images
-- [Based Re](https://bf.based.re/)
-- [Archive youtube](https://preservetube.com/)
-- [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
-- [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html)
-- [Zoomeye](https://www.zoomeye.ai/)
-- [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr)
-- [Dehashed](https://dehashed.com/data-wells)
-- [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme)
-- [liveuamap](https://liveuamap.com/)
-- [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1)
+- [Based Re](https://bf.based.re/) - Ressource base de recherche
+- [Archive youtube](https://preservetube.com/) - Archive vidéos YouTube
+- [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html) - Guide GEOINT ressources
+- [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html) - Kit complet investigations numériques
+- [Zoomeye](https://www.zoomeye.ai/) - Moteur recherche équipements réseaux
+- [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr) - Portail 500 outils français
+- [Dehashed](https://dehashed.com/data-wells) - Moteur recherche données fuites
+- [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme) - Extension Chrome OSINT
+- [liveuamap](https://liveuamap.com/) - Cartographie événements temps réel
+- [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1) - Cartographie infrastructure souterraine
 
 #### 🔓 Outils Open-Source (Performants & Peu Connus)
 - [Holehe](https://github.com/megadose/holehe) - Vérifie si un email est associé à différentes plateformes web
