@@ -68,11 +68,11 @@
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
 - [Osint tool](https://osint.tools/)
 - [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)
-- [Manufacture OSINT - Blog](https://manufacture-osint.fr/blog/) - Guides pratiques, tutoriels géolocalisation
-- [Bellingcat Blog](https://www.bellingcat.com/) - Cas d'études GEOINT analyse satellite
-- [WebBreacher - Tips & Tricks](https://webbreacher.com/) - Astuces OSINT pratiques, analyses cas
-- [OSINT Curious - Articles](https://www.osintcurio.us/) - Ressources archivées, guides techniques
-- [GIJN (Français)](https://gijn.org/fr/) - Journalisme investigatif OSINT
+- [Manufacture OSINT - Blog](https://manufacture-osint.fr/blog/)
+- [Bellingcat Blog](https://www.bellingcat.com/)
+- [WebBreacher - Tips & Tricks](https://webbreacher.com/) 
+- [OSINT Curious - Articles](https://www.osintcurio.us/) 
+- [GIJN (Français)](https://gijn.org/fr/)
   
 ---
 <br>
