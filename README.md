@@ -214,7 +214,6 @@
 - [Infogreffe](https://www.infogreffe.fr/) - Registre commerce & sociétés France
 - [Sirene.fr](https://www.sirene.fr/) - Base données INSEE entreprises (données officielles)
 - [Societe.com](https://www.societe.com/) - Répertoire français entreprises (données libres)
-- [RPPS - Professionnels Santé](https://www.conseil-national.medecin.fr/annuaire) - Vérification médecins, professionnels santé
 - [Représentants.gouv.fr](https://www2.assemblee-nationale.fr/deputes/recherche) - Liste députés français, CV, travaux
 - [Data.gouv.fr](https://www.data.gouv.fr/) - Portail données publiques France
 
