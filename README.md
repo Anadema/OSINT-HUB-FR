@@ -29,6 +29,7 @@
   - [🧰 Boards](#boards)
   - [🧩 Plateformes](#plateformes)
   - [🔍 Autre Sources](#autre-sources)
+  - [🔐 Privacy & OPSEC](#privacy-opsec)
     
 - [🕵️‍♂️ OSINT Communauté](#osint-communaute)
   - [🇫🇷  Communautés FR](#communautes-fr)
@@ -67,6 +68,11 @@
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
 - [Osint tool](https://osint.tools/)
 - [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)
+- [Manufacture OSINT - Blog](https://manufacture-osint.fr/blog/) - Guides pratiques, tutoriels géolocalisation
+- [Bellingcat Blog](https://www.bellingcat.com/) - Cas d'études GEOINT analyse satellite
+- [WebBreacher - Tips & Tricks](https://webbreacher.com/) - Astuces OSINT pratiques, analyses cas
+- [OSINT Curious - Articles](https://www.osintcurio.us/) - Ressources archivées, guides techniques
+- [GIJN (Français)](https://gijn.org/fr/) - Journalisme investigatif OSINT
   
 ---
 <br>
@@ -172,7 +178,74 @@
 - [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme)
 - [liveuamap](https://liveuamap.com/)
 - [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1)
+
+#### 🔓 Outils Open-Source (Performants & Peu Connus)
+- [Holehe](https://github.com/megadose/holehe) - Vérifie si un email est associé à différentes plateformes web
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Framework complet reconnaissance open-source
+- [TheHarvester](https://github.com/laramies/theHarvester) - Collecte emails, subdomains, IPs publiques
+- [Bbot](https://github.com/blacklanternsecurity/bbot) - Reconnaissance massive domaines, emails, IPs
+- [Harpoon](https://github.com/Te-k/harpoon) - CLI tool threat intelligence & OSINT
+- [Gitdorker](https://github.com/obheda12/GitDorker) - Détecte fuites sensibles sur GitHub
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - Énumération sous-domaines massif
+- [Knockpy](https://github.com/guelfoweb/knock) - Énumération DNS sous-domaines
   
+---
+<br>
+
+<a id="bases-donnees"></a>
+## 🗄️ Bases de Données Publiques
+
+### 🇫🇷 France
+- [Cadastre.gouv.fr](https://www.cadastre.gouv.fr/) - Données cadastrales officielles, parcelles et propriétaires
+- [Geofisc](https://www.geofisc.finances.gouv.fr/) - Visualisation cadastrale, impôts fonciers
+- [Infogreffe](https://www.infogreffe.fr/) - Registre commerce & sociétés France
+- [Sirene.fr](https://www.sirene.fr/) - Base données INSEE entreprises (données officielles)
+- [Societe.com](https://www.societe.com/) - Répertoire français entreprises (données libres)
+- [RPPS - Professionnels Santé](https://www.conseil-national.medecin.fr/annuaire) - Vérification médecins, professionnels santé
+- [Représentants.gouv.fr](https://www2.assemblee-nationale.fr/deputes/recherche) - Liste députés français, CV, travaux
+- [Data.gouv.fr](https://www.data.gouv.fr/) - Portail données publiques France
+
+### 🌍 International
+- [OpenCorporates](https://opencorporates.com/) - Base mondiale entreprises (données ouvertes)
+- [Companies House](https://www.gov.uk/government/organisations/companies-house) - Registre britannique sociétés
+- [OpenStreetMap](https://www.openstreetmap.org/) - Cartographie ouverte collaborative
+- [Wikimapia](https://wikimapia.org/) - Wiki cartographique annotations communautaires
+- [GeoNames](https://www.geonames.org/) - Base mondiale noms géographiques
+- [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Données satellite archive USGS
+
+---
+<br>
+
+<a id="geoint"></a>
+## 🛰️ Intelligence Géospatiale (GEOINT)
+
+### Imagerie Satellite & Cartographie
+- [Google Earth Pro](https://www.google.com/earth/) - Imagerie satellite historique, vue 3D
+- [Sentinel Hub](https://www.sentinel-hub.com/) - Imagerie satellite Copernicus libre accès
+- [Maxar OPEN DATA](https://maxar.com/open-data/) - Imagerie satellite gratuite haute résolution
+- [Zoom Earth](https://zoom.earth/) - Imagerie satellite temps réel & historique
+- [Copernicus Open Data Hub](https://scihub.copernicus.eu/) - Données satellite Sentinel libre accès
+- [Planet Labs Free Tier](https://www.planet.com/) - Imagerie satellite quotidienne
+- [European Commission Copernicus](https://copernicus.eu/) - Programme satellite européen données libres
+
+### Ressources Géographiques
+- [IGN (Institut Géographique National)](https://www.ign.fr/geoservices) - Données cartographiques France officiel
+- [Geofabrik](https://www.geofabrik.de/) - Extraits OSM pour analyse géospatiale
+- [OpenTopo](https://cloud.sdsc.edu/v1/AUTH_opentopography/Raster/SRTM_GL30/SRTM_GL30_Ellip/SRTM_GL30_Ellip_srtm.zip) - MNT haute résolution gratuit
+- [Bellingcat Satellite Imagery Guide](https://www.bellingcat.com/resources/2022/01/24/a-beginners-guide-to-finding-satellite-imagery/) - Guide spécialisé imagerie satellite
+
+---
+<br>
+
+<a id="verification"></a>
+## 🔎 Vérification d'Informations & Fact-Checking
+- [Infodemic.org](https://www.infodemic.org/) - Base données fact-check multilingue
+- [Fact-Checking Guide (GIJN)](https://gijn.org/fr/guide-sur-la-verification-des-images/) - Guide vérification d'images
+- [Forensically.com](https://29a.ch/photo-forensics/) - Analyse légale photos, détection manipulation
+- [ExifTool Online](https://exiftool.pixelpeeper.org/) - Lecteur EXIF données images
+- [YouTube DataViewer](https://www.youtube.com/howyoutubeworks/artists/data-viewer.html) - Extraction métadonnées vidéos
+- [TinEye API](https://www.tineye.com/api) - API recherche inversée d'images
+
 ---
 <br>
 
@@ -201,6 +274,19 @@
 - [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
 - [OSINT - Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05)
 - [OPSEC](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+
+---
+<br>
+
+<a id="privacy-opsec"></a>
+## 🔐 Privacy & OPSEC
+- [Privacy Guides](https://www.privacyguides.org/) - Guide complet privacy, outils & services
+- [EFF - Surveillance Self-Defense](https://ssd.eff.org/) - Guide contre-surveillance gratuit
+- [TOR Project - Français](https://www.torproject.org/fr/) - Documentation Tor
+- [Tails Linux](https://tails.net/) - Live OS pour anonymat & sécurité
+- [Whonix](https://www.whonix.org/) - Système exploitation pour anonymat
+- [ANSSI - Recommandations](https://www.anssi.gouv.fr/) - Agence Sécurité Informatique France
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Framework sécurité gouvernemental
 
 ---
 <br>
