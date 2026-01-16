@@ -12,8 +12,6 @@
 </p>
 <br><br>
 
-<br><br>
-
 ## 📑 Table des matières
 
 - [🕵️‍♂️ OSINT Ressources](#osint-ressources)
