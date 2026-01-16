@@ -56,77 +56,77 @@
 
 <a id="articles"></a>
 ## ✍️ Articles
-- [Fiche métier FR](https://guardia.school/metiers/osint-analyst.html)
-- [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html)
-- [The ultimate OSINT Career guide](https://preciousvincentct.medium.com/the-ultimate-guide-to-launching-a-career-in-open-source-intelligence-osint-from-beginner-to-0b3dd09ec88f)
-- [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927)
-- [Bormaxi8080](https://github.com/bormaxi8080/osint-timeline/tree/main)
-- [Dutchosintguy](https://www.dutchosintguy.com/post/beyond-dashboards-osint-s-next-two-decades)
-- [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/)
-- [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/)
-- [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index)
-- [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
-- [Osint tool](https://osint.tools/)
-- [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)
-- [Manufacture OSINT - Blog](https://manufacture-osint.fr/blog/)
-- [Bellingcat Blog](https://www.bellingcat.com/)
-- [WebBreacher - Tips & Tricks](https://webbreacher.com/) 
-- [OSINT Curious - Articles](https://www.osintcurio.us/) 
-- [GIJN (Français)](https://gijn.org/fr/)
+- [Fiche métier FR](https://guardia.school/metiers/osint-analyst.html) - Description et débouchés OSINT en France
+- [Fiche métier EN](https://www.wgu.edu/career-guide/information-technology/osint-career.html) - Guide carrière OSINT anglophone
+- [The ultimate OSINT Career guide](https://preciousvincentct.medium.com/the-ultimate-guide-to-launching-a-career-in-open-source-intelligence-osint-from-beginner-to-0b3dd09ec88f) - Parcours complet débuter en OSINT
+- [The Six Pillars of OSINT](https://osintteam.blog/the-six-pillars-of-osint-documentation-59883c8f5927) - Fondamentaux OSINT structurés
+- [Bormaxi8080](https://github.com/bormaxi8080/osint-timeline/tree/main) - Timeline historique OSINT et ressources archivées
+- [Dutchosintguy](https://www.dutchosintguy.com/post/beyond-dashboards-osint-s-next-two-decades) - Vision prospective OSINT moderne
+- [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/) - Tutorial complet géolocalisation images
+- [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/) - Guide accès données publiques France
+- [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index) - Wiki OSINT complet et encyclopédique
+- [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc) - Guide débutant Maltego
+- [Osint tool](https://osint.tools/) - Moteur de recherche outils OSINT
+- [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d) - Techniques recherche LinkedIn
+- [Manufacture OSINT - Blog](https://manufacture-osint.fr/blog/) - Guides pratiques, tutoriels géolocalisation
+- [Bellingcat Blog](https://www.bellingcat.com/) - Cas d'études GEOINT analyse satellite
+- [WebBreacher - Tips & Tricks](https://webbreacher.com/) - Astuces OSINT pratiques, analyses cas
+- [OSINT Curious - Articles](https://www.osintcurio.us/) - Ressources archivées, guides techniques
+- [GIJN (Français)](https://gijn.org/fr/) - Journalisme investigatif OSINT
   
 ---
 <br>
 
 <a id="methodes"></a>
 ## 🧭 Méthodes
-- [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf)
-- [Guide OSINT (2019)](https://maynier.eu/blog/2019/01/05/2019-osint-guide/)
-- [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/)
-- [Comprendre l’OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces)
-- [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/)
-- [Strategy Maltego](https://static.maltego.com/cdn/Infographics/12-OSINT-Steps-to-Gather-Online-Evidence.pdf)
+- [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf) - Aspects légaux et réglementaires OSINT France
+- [Guide OSINT (2019)](https://maynier.eu/blog/2019/01/05/2019-osint-guide/) - Méthodologie complète OSINT structurée
+- [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/) - Processus étapes enquête OSINT
+- [Comprendre l'OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces) - Introduction aux menaces cybersécurité
+- [Mind map OSINT](https://webbreacher.com/2018/07/12/osint-map/) - Cartographie visuelle domaines OSINT
+- [Strategy Maltego](https://static.maltego.com/cdn/Infographics/12-OSINT-Steps-to-Gather-Online-Evidence.pdf) - 12 étapes collecte preuve numérique
 
 ---
 <br>
 
 <a id="livres-en"></a>
 ## 📚 Livres (EN)
-- [OSINT Handbook (2020)](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
-- [NSA OSINT Handbook (2002)](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf)
-- [NATO OSINT Handbook v1.2 (2001)](https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up)
-- [The Long History of OSINT (2023)](https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT)
-- [OSINT Handbook (13$)](https://buymeacoffee.com/notescatalog/e/258542)
+- [OSINT Handbook (2020)](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf) - Manuel complet référence OSINT
+- [NSA OSINT Handbook (2002)](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB436/docs/EBB-005.pdf) - Document historique gouvernemental NSA
+- [NATO OSINT Handbook v1.2 (2001)](https://archive.org/details/NATOOSINTHandbookV1.2/mode/2up) - Standards OTAN renseignement
+- [The Long History of OSINT (2023)](https://www.researchgate.net/publication/371580573_The_long_history_of_OSINT) - Évolution historique OSINT
+- [OSINT Handbook (13$)](https://buymeacoffee.com/notescatalog/e/258542) - Ressource pratique à l'achat
 
 ---
 <br>
 
 <a id="slides-pdf-fr"></a>
 ## 🖼️ Slides / PDF (FR)
-- [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf)
-- [Diaporama OSINT - ENSIB](https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf)
-- [Security Intelligence Handbook (Fr)](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf)
-- [Formation OSINT - Tzkuat](https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf)
-- [OSINT - AEGE](https://www.aege.fr/global/gene/link.php?news_link=2022093332_mag-osint-10-aege.pdf&fg=1)
+- [Présentation OSINT - Tzkuat](https://repo.tzku.at/presentation/OSINT-tzkuat.pdf) - Diaporama introduction OSINT
+- [Diaporama OSINT - ENSIB](https://www.enssib.fr/bibliotheque-numerique/documents/72482-diaporama-osint-s-ouvrir-aux-sources-de-l-investigation.pdf) - Ressources ouvertes investigation
+- [Security Intelligence Handbook (Fr)](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition-fr.pdf) - Intelligence sécurité version française
+- [Formation OSINT - Tzkuat](https://repo.tzku.at/documentation/osint/Formation%20OSINT.pdf) - Cours formation structure
+- [OSINT - AEGE](https://www.aege.fr/global/gene/link.php?news_link=2022093332_mag-osint-10-aege.pdf&fg=1) - Magazine OSINT francophone
 
 ---
 <br>
 
 <a id="slides-pdf-en"></a>
 ## 📄 Slides / PDF (EN)
-- [OSINT Paper (EN)](https://ceur-ws.org/Vol-3654/short3.pdf)
-- [Dangerous Google Hacking Database](https://repo.tzku.at/documentation/osint/Dangerours%20Google%20Hacking%20Database%20and%20Attacks.pdf)
-- [OSINT Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5281845)
+- [OSINT Paper (EN)](https://ceur-ws.org/Vol-3654/short3.pdf) - Article recherche OSINT académique
+- [Dangerous Google Hacking Database](https://repo.tzku.at/documentation/osint/Dangerours%20Google%20Hacking%20Database%20and%20Attacks.pdf) - Google Dorks techniques avancées
+- [OSINT Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5281845) - Papier recherche scientifique OSINT
 
 ---
 <br>
 
 <a id="videos"></a>
 ## 🎥 Vidéos & Podcast
-- [Osintcurio](https://www.osintcurio.us/osintvideosandpodcasts/index.htm) 
-- [OSINT ANALYST : missions, salaire, compétences et formations](https://www.youtube.com/watch?v=gZXZmHRxDWk) 
-- [Introduction à l’OSINT : maîtrisez l'art de l'investigation en ligne](https://www.youtube.com/watch?v=GameXsraN8Y)
-- [OSINT : dans la peau d'un hacker](https://www.youtube.com/watch?v=jP47EQGpOY8)
-- [Top 10 des Outils OSINT GRATUITS Pour 2025 (Effrayant)](https://www.youtube.com/watch?v=qz5lSFS4BYY)
+- [Osintcurio](https://www.osintcurio.us/osintvideosandpodcasts/index.htm) - Index podcasts vidéos OSINT recommandés
+- [OSINT ANALYST : missions, salaire, compétences et formations](https://www.youtube.com/watch?v=gZXZmHRxDWk) - Présentation métier OSINT
+- [Introduction à l'OSINT : maîtrisez l'art de l'investigation en ligne](https://www.youtube.com/watch?v=GameXsraN8Y) - Tutorial vidéo débutants
+- [OSINT : dans la peau d'un hacker](https://www.youtube.com/watch?v=jP47EQGpOY8) - Cas réels d'enquêtes OSINT
+- [Top 10 des Outils OSINT GRATUITS Pour 2025 (Effrayant)](https://www.youtube.com/watch?v=qz5lSFS4BYY) - Sélection outils gratuites 2025
 
 ---
 <br>
@@ -150,24 +150,37 @@
 
 <a id="tools"></a>
 ## 🔧 Tools
-- [Outils OSINT FR](https://osintfr.com/outils/)
-- [OSINT Tools matrix](https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0)
-- [Osint tool](https://github.com/topics/osint-tools)
-- [Osint combine](https://www.osintcombine.com/tools)
-- [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/)
-- [OCCRP/Database](https://id.occrp.org/databases/)
-- [Awesome OSINT - GitHub](https://github.com/jivoi/awesome-osint)
-- [OSINT Framework](https://osintframework.com/)
-- [Osint / Threat intelligence tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/)
-- [OSINT SH](https://osint.sh/)
-- [Spiderfoot](https://github.com/smicallef/spiderfoot)
-- [Digital protection guides comparison](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083)
-- [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api)
-- [Intel Techniques Tools](https://inteltechniques.com/tools/index.html)
-- [Sherlock OSINT Tool - GitHub](https://github.com/sherlock-project/sherlock)
-- [Web Check Tool - GitHub](https://github.com/Lissy93/web-check)
-- [Factscope AI](https://www.factscopeai.com/)
-- [Maltego](https://www.maltego.com/)
+- [Outils OSINT FR](https://osintfr.com/outils/) - Répertoire outils OSINT francophone
+- [OSINT Tools matrix](https://docs.google.com/spreadsheets/d/1HB53MTsJsl_hKkd2eJYIkQ1v-BsaSKU6h25YE5zP-6k/edit?gid=0#gid=0) - Matrice comparative outils OSINT
+- [Osint tool](https://github.com/topics/osint-tools) - Agrégateur repos GitHub outils OSINT
+- [Osint combine](https://www.osintcombine.com/tools) - Répertoire outils OSINT avec descriptions
+- [Outils gratuits OSINT](https://cryptrz.org/wordpress/2025/03/02/quelques-outils-gratuits-pour-de-losint/) - Sélection outils gratuits 2025
+- [OCCRP/Database](https://id.occrp.org/databases/) - Bases données investigations mafias
+- [Awesome OSINT - GitHub](https://github.com/jivoi/awesome-osint) - Ressources OSINT compilées
+- [OSINT Framework](https://osintframework.com/) - Diagramme interactif outils OSINT
+- [Osint / Threat intelligence tool/](https://maynier.eu/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/) - Harpoon CLI tool
+- [OSINT SH](https://osint.sh/) - One-liner OSINT utiles
+- [Spiderfoot](https://github.com/smicallef/spiderfoot) - Framework reconnaissance automatisée
+- [Digital protection guides comparison](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit?gid=519861083#gid=519861083) - Comparatif outils protection
+- [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api) - API surveillance open-source
+- [Intel Techniques Tools](https://inteltechniques.com/tools/index.html) - Collection 600+ outils web
+- [Sherlock OSINT Tool - GitHub](https://github.com/sherlock-project/sherlock) - Retrouver comptes réseaux sociaux
+- [Web Check Tool - GitHub](https://github.com/Lissy93/web-check) - Analyse complète domaines
+- [Factscope AI](https://www.factscopeai.com/) - Vérification sources IA
+- [Maltego](https://www.maltego.com/) - Plateforme OSINT leader marché
+- [Based Re](https://bf.based.re/) - Ressource base de recherche
+- [Archive youtube](https://preservetube.com/) - Archive vidéos YouTube
+- [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html) - Guide GEOINT ressources
+- [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html) - Kit complet investigations numériques
+- [Zoomeye](https://www.zoomeye.ai/) - Moteur recherche équipements réseaux
+- [500 Outils OSINT - Start.me](https://start.me/p/0Pqbdg/osint-500-tools?locale=fr) - Portail 500 outils français
+- [Dehashed](https://dehashed.com/data-wells) - Moteur recherche données fuites
+- [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme) - Extension Chrome OSINT
+- [liveuamap](https://liveuamap.com/) - Cartographie événements en temps réel
+- [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1) - Cartographie infrastructure souterraine
+- [ExifTool Online](https://exiftool.pixelpeeper.org/) - Lecteur EXIF données images
+- [YouTube DataViewer](https://www.youtube.com/howyoutubeworks/artists/data-viewer.html) - Extraction métadonnées vidéos
+- [TinEye API](https://www.tineye.com/api) - API recherche inversée d'images
 - [Based Re](https://bf.based.re/)
 - [Archive youtube](https://preservetube.com/)
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html)
@@ -237,43 +250,31 @@
 ---
 <br>
 
-<a id="verification"></a>
-## 🔎 Vérification d'Informations & Fact-Checking
-- [Infodemic.org](https://www.infodemic.org/) - Base données fact-check multilingue
-- [Fact-Checking Guide (GIJN)](https://gijn.org/fr/guide-sur-la-verification-des-images/) - Guide vérification d'images
-- [Forensically.com](https://29a.ch/photo-forensics/) - Analyse légale photos, détection manipulation
-- [ExifTool Online](https://exiftool.pixelpeeper.org/) - Lecteur EXIF données images
-- [YouTube DataViewer](https://www.youtube.com/howyoutubeworks/artists/data-viewer.html) - Extraction métadonnées vidéos
-- [TinEye API](https://www.tineye.com/api) - API recherche inversée d'images
-
----
-<br>
-
 <a id="boards"></a>
 ## 🧰 Boards
-- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all)
-- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox)
-- [Darkint - Start.me](https://start.me/p/19k4MD/darkint)
-- [Bormaxi8080 - Start.me](https://start.me/p/nRz81L/osintech-links-board)
+- [Osint4all - Start.me](https://start.me/p/L1rEYQ/osint4all) - Tableau de bord agrégé outils OSINT
+- [Toolbox - Start.me](https://start.me/p/7krOpx/toolbox) - Boîte à outils investigations numériques
+- [Darkint - Start.me](https://start.me/p/19k4MD/darkint) - Ressources darkweb et menaces
+- [Bormaxi8080 - Start.me](https://start.me/p/nRz81L/osintech-links-board) - Portail complet outils OSINT
 
 ---
 <br>
 
 <a id="plateformes"></a>
 ## 🧩 Plateformes
-- [OSINT Industries](https://www.osint.industries/)
-- [Itnelowlprojet](https://intelowlproject.github.io/)
-- [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm)
-- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm)
+- [OSINT Industries](https://www.osint.industries/) - Plateforme renseignement temps réel gouvernement-privé
+- [Itnelowlprojet](https://intelowlproject.github.io/) - Platform automatisation modéraisée OSINT
+- [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm) - Machine virtuelle OSINT pré-configurée
+- [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm) - Déploiement VM TraCeLab
 
 ---
 <br>
 
 <a id="autre-sources"></a>
 ## 🔍 Autres Sources
-- [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
-- [OSINT - Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05)
-- [OPSEC](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [OSINT - Non Typical OSINT guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - Techniques OSINT non-conventionnelles
+- [OSINT - Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05) - Archive ressources OSINT partagée
+- [OPSEC](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Guide opérsecurité crypto-monnaie
 
 ---
 <br>
@@ -383,31 +384,31 @@
 
 <a id="formations-gratuites"></a>
 ## 🎓 Formations gratuites
-- [Osint4fun](https://www.osint4fun.eu/challenges/)
-- [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint)
-- [Introduction to OSINT](https://www.securityblue.team/courses/introduction-to-osint)
-- [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/osint-fundamentals)
-- [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini)
-- [CaseFile](https://courses.thecyberinst.org/courses/casefile)
-- [Social Media Research](https://learn.totem-project.org/courses/course-v1:Totem+TP_SMR_EN+001/about)
-- [Dark Web Foundations](https://www.darkwebacademy.com/courses/dark-web-foundations)
-- [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course)
+- [Osint4fun](https://www.osint4fun.eu/challenges/) - Défis OSINT progressifs gratuits
+- [Fundamentals of OSINT - Alison](https://alison.com/course/fundamentals-of-open-source-intelligence-osint) - Cours académique gratuit débutants
+- [Introduction to OSINT](https://www.securityblue.team/courses/introduction-to-osint) - Formation d'introduction OSINT
+- [Open Source Intelligence - Cybrary](https://www.cybrary.it/course/osint-fundamentals) - Cours Cybrary gratuit
+- [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini) - Mini-formation intensive OSINT
+- [CaseFile](https://courses.thecyberinst.org/courses/casefile) - Études de cas pratiques
+- [Social Media Research](https://learn.totem-project.org/courses/course-v1:Totem+TP_SMR_EN+001/about) - Recherche réseaux sociaux
+- [Dark Web Foundations](https://www.darkwebacademy.com/courses/dark-web-foundations) - Fondamentaux darkweb
+- [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course) - Cours débutants complet
 
 ---
 <br>
 
 <a id="formations--certifications-payantes"></a>
 ## 💼 Formations payantes
-- [Zsecurity](https://zsecurity.org/cosintp/)
-- [Greydynamics](https://greydynamics.com/intelligence-school/)
-- [Openfacto](https://openfacto.fr/)
-- [CSI](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/)
-- [Mosse](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html)
-- [Analyste OSINT 1](https://www.tactical-osint-academy.com/analyste-osint-niveau-1)
-- [Oteria - Bac+5 Expert en Cybersécurité](https://www.oteria.fr/bac-5-expert-en-cybersecurite/renseignement-et-cybermenaces)
-- [PSB Edu - Open Source Intelligence](https://www.psbedu.paris/fr/actus/open-source-intelligence-technique-renseignement-service-intelligence-economique)
-- [OSMOSIS Institute](https://osmosisinstitute.org/osc/)
-- [SANS - Practical OSINT](https://www.sans.org/cyber-security-courses/practical-open-source-intelligence)
+- [Zsecurity](https://zsecurity.org/cosintp/) - Certification OSINT professionnelle
+- [Greydynamics](https://greydynamics.com/intelligence-school/) - École intelligence stratégique
+- [Openfacto](https://openfacto.fr/) - Formation OSINT française spécialisée
+- [CSI](https://shop.csilinux.com/shop/uncategorized/csi-linux-certified-osint-analyst/) - Certificat analyste OSINT CSI
+- [Mosse](https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html) - Certification expert OSINT Mosse
+- [Analyste OSINT 1](https://www.tactical-osint-academy.com/analyste-osint-niveau-1) - Certificat analyste niveau 1
+- [Oteria - Bac+5 Expert en Cybersécurité](https://www.oteria.fr/bac-5-expert-en-cybersecurite/renseignement-et-cybermenaces) - Master cybersécurité France
+- [PSB Edu - Open Source Intelligence](https://www.psbedu.paris/fr/actus/open-source-intelligence-technique-renseignement-service-intelligence-economique) - Programme école PSB
+- [OSMOSIS Institute](https://osmosisinstitute.org/osc/) - Certificat international OSMOSIS
+- [SANS - Practical OSINT](https://www.sans.org/cyber-security-courses/practical-open-source-intelligence) - Cours réputé SANS
 
 ---
 <br>
@@ -512,10 +513,10 @@ Voici une sélection d’entreprises reconnues à l’international pour leurs s
 
 <a id="recherche-emploi"></a>
 ## 🏢 Recherche Emploi
-- **Osint-Jobs** [Site officiel](https://www.osint-jobs.com/)
-- **Osintinvestigations** [Site officiel](https://www.osintinvestigations.fr/emplois/)
-- **Indeed** [Site officiel](https://fr.indeed.com/q-osint-emplois.html?vjk=2d0ae8b1a6b89c36)
-- **Glassdoor** [Site officiel](https://www.glassdoor.fr/Emploi/osint-emplois-SRCH_KO0,5.htm)
+- **Osint-Jobs** [Site officiel](https://www.osint-jobs.com/) - Job board spécialisé OSINT
+- **Osintinvestigations** [Site officiel](https://www.osintinvestigations.fr/emplois/) - Offres emploi investigations
+- **Indeed** [Site officiel](https://fr.indeed.com/q-osint-emplois.html?vjk=2d0ae8b1a6b89c36) - Emplois OSINT sur Indeed
+- **Glassdoor** [Site officiel](https://www.glassdoor.fr/Emploi/osint-emplois-SRCH_KO0,5.htm) - Avis entreprises & offres
 
 ---
 
