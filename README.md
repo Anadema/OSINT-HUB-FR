@@ -79,7 +79,9 @@
 
 <a id="methodes"></a>
 ## 🧭 Méthodes
-- [Livre blanc - Le cadre légal OSINT (2023)](https://ozint.eu/contributions/Livre%20blanc-Le%20cadre%20legal%20OSINT-2023.pdf) - Aspects légaux et réglementaires OSINT France
+- [Quel est le cadre légal de l’OSINT ?](https://www.village-justice.com/articles/quel-est-cadre-legal-osint,49186.html) - Aspects légaux et réglementaires OSINT France
+- [OSINT : CADRE NORMATIF ET RESISTANCE AU CHANGEMENT](https://www.lexing.law/wp-content/uploads/2025/09/OSINT-cadre-normatif-resistance-changement-Raphael-Liotier-2025.pdf) - Aspects légaux et réglementaires OSINT France
+- [Livre Blanc OSINTT](https://thomascw.fr/wp-content/uploads/2023/07/Livre_Blanc_OSINT-1.pdf) - Résumé ludique de l'OSINT
 - [Guide OSINT (2019)](https://maynier.eu/blog/2019/01/05/2019-osint-guide/) - Méthodologie complète OSINT structurée
 - [Méthodologie OSINT](https://ozint.eu/fiche-pedagogique/methodologie/) - Processus étapes enquête OSINT
 - [Comprendre l'OSINT](https://www.oteria.fr/blog-oteria/osint-atout-renseignement-cybermenaces) - Introduction aux menaces cybersécurité
