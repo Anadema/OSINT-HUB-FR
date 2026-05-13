@@ -23,7 +23,6 @@
   - [🖼️ Slides / PDF (FR)](#slides-pdf-fr)
   - [📄 Slides / PDF (EN)](#slides-pdf-en)
   - [🎥 Vidéos](#videos)
-  - [⭐ Osinter](#osinter)
   - [🙏 Bible ](#bible)
   - [🔧 Tools](#tools)
   - [🧰 Boards](#boards)
@@ -129,15 +128,6 @@
 - [Introduction à l'OSINT : maîtrisez l'art de l'investigation en ligne](https://www.youtube.com/watch?v=GameXsraN8Y) - Tutorial vidéo débutants
 - [OSINT : dans la peau d'un hacker](https://www.youtube.com/watch?v=jP47EQGpOY8) - Cas réels d'enquêtes OSINT
 - [Top 10 des Outils OSINT GRATUITS Pour 2025 (Effrayant)](https://www.youtube.com/watch?v=qz5lSFS4BYY) - Sélection outils gratuites 2025
-
----
-<br>
-
-<a id="osinter"></a>
-## ⭐ Osinter
-- [Maxim M. / bormaxi8080](https://github.com/bormaxi8080) - Expert OSINT contributeur open-source
-- [Xiè Jí'ān Jieyab 谢吉 / Jieyab89](https://github.com/Jieyab89) - Chercheur OSINT créateur ressources
-- ...
 
 ---
 <br>
