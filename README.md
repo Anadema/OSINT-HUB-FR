@@ -546,6 +546,5 @@ Vous pouvez l'utiliser à des fins de recherche et de formation ; toute commerci
   thomasblc
 
   </p>
-
-  > 📌 *Dernière mise à jour : Octobre 2025*  
+  
   > _Contributions bienvenues via Pull Request._
