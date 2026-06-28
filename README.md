@@ -63,7 +63,7 @@
 - [Dutchosintguy](https://www.dutchosintguy.com/post/beyond-dashboards-osint-s-next-two-decades) - Vision prospective OSINT moderne
 - [Géolocaliser une image](https://manufacture-osint.fr/tutoriel-comment-geolocaliser-une-image-avec-losint/) - Tutorial complet géolocalisation images
 - [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/) - Guide accès données publiques France
-- [Trouver des informations sur une personne (FR)](https://verisources.fr/guides/trouver-informations-publiques-quelquun) - Guide légal recherche d'informations publiques sur une personne
+- [Trouver des informations sur une personne (FR)](https://verisources.fr/guides/trouver-informations-publiques-quelquun) - Guide légal recherche infos publiques sur une personne
 - [Vérifier la fiabilité d'une entreprise (FR)](https://verisources.fr/guides/verifier-fiabilite-entreprise-gratuitement) - Méthode gratuite via Infogreffe, Sirene et registres officiels
 - [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index) - Wiki OSINT complet et encyclopédique
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc) - Guide débutant Maltego
