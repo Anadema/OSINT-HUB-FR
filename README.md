@@ -526,14 +526,26 @@ Source : https://github.com/SocialLinks-IO/assets/blob/main/Email%20MindMap.jpg
 
 ## License
 
-Apache 2.0 — see `LICENSE` file.
+OSINT-HUB-FR est publié sous <a href="https://github.com/Anadema/OSINT-HUB-FR/blob/main/LICENCE" target="_blank" style="color: red;"> Apache-2.0</a> :<br>
+Vous pouvez l'utiliser à des fins de recherche et de formation ; toute commercialisation est interdite.<br>
+<br>
+
+ <strong>⚠️ Disclaimer / Avertissement légal</strong><br><br>
+
+ <em>🇫🇷 FR —</em> OSINT-HUB-FR est un support informatif créé à titre éducatif et pédagogique uniquement. Les méthodes, outils et ressources partagés ici doivent      être utilisés dans le strict respect des lois en vigueur, notamment le RGPD (Règlement Général sur la Protection des Données). Les auteurs d'OSINT-HUB-FR ne          sauraient être tenus responsables de tout usage détourné, abusif ou malveillant des informations mises à disposition. Chaque utilisateur est seul responsable de ses  actes et des conséquences juridiques qui en découlent.<br><br>
+   
+  <em>🇬🇧 EN —</em> OSINT-HUB-FR is an informational resource created solely for educational and training purposes. The methods, tools and resources shared here must    be used in strict compliance with applicable laws, including the GDPR (General Data Protection Regulation). The authors of OSINT-HUB-FR cannot be held responsible    for any misuse of the information provided. Each user is solely responsible for their own actions and the legal consequences thereof.<br><br>
+
 
 ---
 
-## Authors
+  ## Authors
 
-Anadema
-</p>
+  Anadema,
+  Alexandre R,
+  thomasblc
 
-> 📌 *Dernière mise à jour : Octobre 2025*  
-> _Contributions bienvenues via Pull Request._
+  </p>
+
+  > 📌 *Dernière mise à jour : Octobre 2025*  
+  > _Contributions bienvenues via Pull Request._
