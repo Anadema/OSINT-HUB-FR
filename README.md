@@ -65,11 +65,12 @@
 - [Acceder au information publique FR](https://gijn.org/fr/histoires/comment-acceder-a-des-informations-publiques-en-france/) - Guide accès données publiques France
 - [Trouver des informations sur une personne (FR)](https://verisources.fr/guides/trouver-informations-publiques-quelquun) - Guide légal recherche infos publiques sur une personne
 - [Vérifier la fiabilité d'une entreprise (FR)](https://verisources.fr/guides/verifier-fiabilite-entreprise-gratuitement) - Méthode gratuite via Infogreffe, Sirene et registres officiels
+- [Outils OSINT gratuits pour débutants (FR)](https://verisources.fr/guides/outils-osint-gratuits-debutants) - Sélection d'outils OSINT gratuits et méthode pas à pas pour débuter
 - [Nothing2hide/osint](https://wiki.nothing2hide.org/doku.php?id=start&do=index) - Wiki OSINT complet et encyclopédique
 - [Maltego tuto](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc) - Guide débutant Maltego
 - [Osint tool](https://osint.tools/) - Moteur de recherche outils OSINT
 - [Osint Linkedin](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d) - Techniques recherche LinkedIn
-- [Manufacture OSINT - Blog](https://manufacture-osint.fr/blog/) - Guides pratiques, tutoriels géolocalisation
+- [Manufacture OSINT - Blog](https://manufacture-osint.fr/posts/) - Guides pratiques, tutoriels géolocalisation
 - [Bellingcat Blog](https://www.bellingcat.com/) - Cas d'études GEOINT analyse satellite
 - [WebBreacher - Tips & Tricks](https://webbreacher.com/) - Astuces OSINT pratiques, analyses cas
 - [OSINT Curious - Articles](https://www.osintcurio.us/) - Ressources archivées, guides techniques
