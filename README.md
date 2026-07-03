@@ -543,7 +543,7 @@ Vous pouvez l'utiliser à des fins de recherche et de formation ; toute commerci
   ## Authors
 
   Anadema,
-  Alexandre R,
+  Alexandre D,
   thomasblc
 
   </p>
