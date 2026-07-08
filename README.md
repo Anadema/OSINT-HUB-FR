@@ -186,7 +186,8 @@
 - [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme) - Extension Chrome OSINT
 - [liveuamap](https://liveuamap.com/) - Cartographie événements temps réel
 - [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1) - Cartographie infrastructure souterraine
-- [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, SPF/DKIM/DMARC and blacklist lookups with plain-English results; free API and MCP server, no signup
+- [Tineye](https://www.tineye.com/)- Reverse image search API
+- [DNSai](https://dnsai.com/dns-tools/) - Outils API pour DNS, WHOIS, SPF/DKIM/DMARC et blacklist recherche inverse
 
 #### 🔓 Outils Open-Source (Performants & Peu Connus)
 - [Holehe](https://github.com/megadose/holehe) - Vérifie si un email est associé à différentes plateformes web
