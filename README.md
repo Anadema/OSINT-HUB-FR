@@ -187,7 +187,7 @@
 - [liveuamap](https://liveuamap.com/) - Cartographie événements temps réel
 - [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1) - Cartographie infrastructure souterraine
 - [Tineye](https://www.tineye.com/)- Reverse image search API
-- [DNSai](https://dnsai.com/dns-tools/) - Outils API pour DNS, WHOIS, SPF/DKIM/DMARC et blacklist recherche inverse
+- [DNSai](https://dnsai.com/dns-tools/) - Outils API pour DNS, WHOIS, SPF/DKIM/DMARC et blacklist
 
 #### 🔓 Outils Open-Source (Performants & Peu Connus)
 - [Holehe](https://github.com/megadose/holehe) - Vérifie si un email est associé à différentes plateformes web
