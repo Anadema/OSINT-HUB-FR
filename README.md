@@ -217,6 +217,7 @@
 ### 🌍 International
 - [OpenCorporates](https://opencorporates.com/) - Base mondiale entreprises (données ouvertes)
 - [Companies House](https://www.gov.uk/government/organisations/companies-house) - Registre britannique sociétés
+- [Company Records](https://records.knowyourcustomer.com/) : recherche d'entreprises gratuite et anonyme, 149 juridictions ; rapport et actes officiels récupérés en direct au registre, par Know Your Customer Limited.
 - [OpenStreetMap](https://www.openstreetmap.org/) - Cartographie ouverte collaborative
 - [Wikimapia](https://wikimapia.org/) - Wiki cartographique annotations communautaires
 - [GeoNames](https://www.geonames.org/) - Base mondiale noms géographiques
