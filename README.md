@@ -213,6 +213,7 @@
 - [Societe.com](https://www.societe.com/) - Répertoire français entreprises (données libres)
 - [Représentants.gouv.fr](https://www2.assemblee-nationale.fr/deputes/recherche) - Liste députés français, CV, travaux
 - [Data.gouv.fr](https://www.data.gouv.fr/) - Portail données publiques France
+- [Piratage.fr](https://www.piratage.fr) - Registre sourcé des fuites de données de l'État français (API, CSV).
 
 ### 🌍 International
 - [OpenCorporates](https://opencorporates.com/) - Base mondiale entreprises (données ouvertes)
