@@ -160,6 +160,7 @@
 - [Open Source Surveillance API](https://app.theneo.io/offensive-osint/oss/open-source-surveillance-api) - API surveillance open-source
 - [Intel Techniques Tools](https://inteltechniques.com/tools/index.html) - Collection 600+ outils web
 - [Sherlock OSINT Tool - GitHub](https://github.com/sherlock-project/sherlock) - Retrouver comptes réseaux sociaux
+- [WhatsMyName Apps](https://whatsmynameapps.us/) - Recherche gratuite de noms d’utilisateur sur des sites publics, sans inscription ; résultats à vérifier manuellement
 - [Web Check Tool - GitHub](https://github.com/Lissy93/web-check) - Analyse complète domaines
 - [Factscope AI](https://www.factscopeai.com/) - Vérification sources IA
 - [Maltego](https://www.maltego.com/) - Plateforme OSINT leader marché
