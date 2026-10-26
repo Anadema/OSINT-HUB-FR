@@ -262,6 +262,7 @@
 - [Itnelowlprojet](https://intelowlproject.github.io/) - Platform automatisation modéraisée OSINT
 - [TraceLab VM](https://www.tracelabs.org/initiatives/osint-vm) - Machine virtuelle OSINT pré-configurée
 - [TraceLab VM installation](https://github.com/tracelabs/tlosint-vm) - Déploiement VM TraCeLab
+- [Opsis](https://useopsis.com/) - Recherche des comptes liés à un email, pseudo ou domaine
 
 ---
 <br>
