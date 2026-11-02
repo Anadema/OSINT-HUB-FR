@@ -212,7 +212,7 @@
 - [Infogreffe](https://www.infogreffe.fr/) - Registre commerce & sociétés France
 - [Sirene.fr](https://www.sirene.fr/) - Base données INSEE entreprises (données officielles)
 - [Societe.com](https://www.societe.com/) - Répertoire français entreprises (données libres)
-- [OpenRegistry](https://openregistry.sophymarine.com) - Registre officiel (RNE / INSEE Sirene / RNA) interrogé en direct, recherche d'entreprises et dirigeants via MCP
+- [OpenRegistry](https://openregistry.sophymarine.com) - Registre officiel (RNE / INSEE Sirene / RNA) en direct, recherche d'entreprises et dirigeants 
 - [Représentants.gouv.fr](https://www2.assemblee-nationale.fr/deputes/recherche) - Liste députés français, CV, travaux
 - [Data.gouv.fr](https://www.data.gouv.fr/) - Portail données publiques France
 - [Piratage.fr](https://www.piratage.fr) - Registre sourcé des fuites de données de l'État français (API, CSV).
@@ -220,7 +220,7 @@
 ### 🌍 International
 - [OpenCorporates](https://opencorporates.com/) - Base mondiale entreprises (données ouvertes)
 - [Companies House](https://www.gov.uk/government/organisations/companies-house) - Registre britannique sociétés
-- [Company Records](https://records.knowyourcustomer.com/) : recherche d'entreprises gratuite et anonyme, 149 juridictions ; rapport et actes officiels récupérés en direct au registre, par Know Your Customer Limited.
+- [Company Records](https://records.knowyourcustomer.com/) : recherche d'entreprises gratuite et anonyme, 149 juridictions 
 - [OpenStreetMap](https://www.openstreetmap.org/) - Cartographie ouverte collaborative
 - [Wikimapia](https://wikimapia.org/) - Wiki cartographique annotations communautaires
 - [GeoNames](https://www.geonames.org/) - Base mondiale noms géographiques
