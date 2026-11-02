@@ -212,6 +212,7 @@
 - [Infogreffe](https://www.infogreffe.fr/) - Registre commerce & sociétés France
 - [Sirene.fr](https://www.sirene.fr/) - Base données INSEE entreprises (données officielles)
 - [Societe.com](https://www.societe.com/) - Répertoire français entreprises (données libres)
+- [OpenRegistry](https://openregistry.sophymarine.com) - Registre officiel (RNE / INSEE Sirene / RNA) interrogé en direct, recherche d'entreprises et dirigeants via MCP
 - [Représentants.gouv.fr](https://www2.assemblee-nationale.fr/deputes/recherche) - Liste députés français, CV, travaux
 - [Data.gouv.fr](https://www.data.gouv.fr/) - Portail données publiques France
 - [Piratage.fr](https://www.piratage.fr) - Registre sourcé des fuites de données de l'État français (API, CSV).
