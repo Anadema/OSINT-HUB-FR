@@ -166,6 +166,7 @@
 - [Based Re](https://bf.based.re/) - Ressource base de recherche
 - [Archive youtube](https://preservetube.com/) - Archive vidéos YouTube
 - [twtData - Tendances X France](https://twtdata.com/twitter-trends/france/) - Archive quotidienne des tendances X (Twitter) en France
+- [TKMetrics - Créateurs TikTok France](https://tkmetrics.com/creators/country/france/) - Classement des créateurs TikTok en France
 - [Spatial](https://knowlesys.com/en/articles/focus/geospatial_intelligence/geospatial_open_source_intelligence_investigation_tools.html) - Guide GEOINT ressources
 - [Le kit](https://kit.exposingtheinvisible.org/fr/thekit.html) - Kit complet investigations numériques
 - [Zoomeye](https://www.zoomeye.ai/) - Moteur recherche équipements réseaux
