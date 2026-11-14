@@ -177,6 +177,7 @@
 - [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1) - Cartographie infrastructure souterraine
 - [ExifTool Online](https://exiftool.pixelpeeper.org/) - Lecteur EXIF données images
 - [YouTube DataViewer](https://www.youtube.com/howyoutubeworks/artists/data-viewer.html) - Extraction métadonnées vidéos
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Transcription horodatée des vidéos YouTube (sous-titres existants), recherche de mots-clés et citation exacte; quelques transcriptions par jour sans compte, offres payantes au-delà
 - [TinEye API](https://www.tineye.com/api) - API recherche inversée d'images
 - [Based Re](https://bf.based.re/) - Ressource base de recherche
 - [Archive youtube](https://preservetube.com/) - Archive vidéos YouTube
