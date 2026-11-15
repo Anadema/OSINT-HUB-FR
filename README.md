@@ -288,6 +288,7 @@
 - [TOR Project - Français](https://www.torproject.org/fr/) - Documentation Tor
 - [Tails Linux](https://tails.net/) - Live OS pour anonymat & sécurité
 - [Whonix](https://www.whonix.org/) - Système exploitation pour anonymat
+- [Spoof Me](https://spoof-me.com/) - Extension Chrome/Firefox : identité navigateur cohérente avec le persona (User-Agent, langue, fuseau horaire)
 - [ANSSI - Recommandations](https://www.anssi.gouv.fr/) - Agence Sécurité Informatique France
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Framework sécurité gouvernemental
 
