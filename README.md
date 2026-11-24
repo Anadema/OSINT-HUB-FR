@@ -187,6 +187,7 @@
 - [Dehashed](https://dehashed.com/data-wells) - Moteur recherche données fuites
 - [Chromewebstore](https://chromewebstore.google.com/detail/clean-tabs/aghbkaaajenibjoinlhcpcobnboebhme) - Extension Chrome OSINT
 - [liveuamap](https://liveuamap.com/) - Cartographie événements temps réel
+- [H1DR4 Incident Map](https://h1dr4.dev/map) - Carte publique des signalements Police.uk en Angleterre et au pays de Galles, consultable sans compte. Les lieux sont approximatifs et la couverture varie selon les services de police et les mois.
 - [Manhole](https://manhole.co.il/coversMap.asp?sr=all%3D1) - Cartographie infrastructure souterraine
 - [Tineye](https://www.tineye.com/)- Reverse image search API
 - [DNSai](https://dnsai.com/dns-tools/) - Outils API pour DNS, WHOIS, SPF/DKIM/DMARC et blacklist
